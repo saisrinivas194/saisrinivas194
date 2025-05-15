@@ -202,72 +202,64 @@ quadrantChart
     "Web Dev": [0.7, 0.75]
 ```
 
+### 🎯 Skill Proficiency Levels
+
 <div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
+    <!-- Expert Level -->
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Python-Expert_(95%25)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Data_Science-Expert_(90%25)-FF6F00?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
+    </a>
+    <br/>
+    <!-- Advanced Level -->
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/AI/ML-Advanced_(85%25)-00B4AB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Data_Processing-Advanced_(85%25)-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+    </a>
+    <br/>
+    <!-- Intermediate Level -->
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Deep_Learning-Intermediate_(75%25)-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/NLP-Intermediate_(75%25)-4C51BF?style=for-the-badge&logo=nlp&logoColor=white"/>
+    </a>
+</div>
+</div>
 
-<div style="margin: 20px 0;">
-    <h4>🎯 Skill Proficiency Levels</h4>
+### 📊 Impact Analysis
+
+```mermaid
+pie title "Technical Impact Distribution"
+    "Data Science & ML" : 35
+    "AI Development" : 30
+    "Automation & Processing" : 20
+    "Web Development" : 15
+```
+
+### 🚀 Growth Trajectory
+
+```mermaid
+graph LR
+    A[Core Skills] --> B[Data Science]
+    A --> C[Programming]
+    B --> D[Advanced Analytics]
+    C --> E[AI/ML Development]
+    D --> F[Specialized ML]
+    E --> F
+    F --> G[Deep Learning]
+    F --> H[NLP Applications]
     
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-        <!-- Expert Level -->
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Python-Expert_(95%25)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Data_Science-Expert_(90%25)-FF6F00?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
-        </a>
-        <br/>
-        <!-- Advanced Level -->
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/AI/ML-Advanced_(85%25)-00B4AB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Data_Processing-Advanced_(85%25)-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-        </a>
-        <br/>
-        <!-- Intermediate Level -->
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Deep_Learning-Intermediate_(75%25)-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/NLP-Intermediate_(75%25)-4C51BF?style=for-the-badge&logo=nlp&logoColor=white"/>
-        </a>
-    </div>
-</div>
-
-<div style="margin: 40px 0;">
-    <h4>📊 Impact Analysis</h4>
-    
-    ```mermaid
-    pie title "Technical Impact Distribution"
-        "Data Science & ML" : 35
-        "AI Development" : 30
-        "Automation & Processing" : 20
-        "Web Development" : 15
-    ```
-</div>
-
-<div style="margin: 20px 0;">
-    <h4>🚀 Growth Trajectory</h4>
-    
-    ```mermaid
-    graph LR
-        A[Core Skills] --> B[Data Science]
-        A --> C[Programming]
-        B --> D[Advanced Analytics]
-        C --> E[AI/ML Development]
-        D --> F[Specialized ML]
-        E --> F
-        F --> G[Deep Learning]
-        F --> H[NLP Applications]
-        
-        style A fill:#f9f,stroke:#333,stroke-width:2px
-        style F fill:#bbf,stroke:#333,stroke-width:2px
-        style G fill:#bfb,stroke:#333,stroke-width:2px
-        style H fill:#bfb,stroke:#333,stroke-width:2px
-    ```
-</div>
-
-</div>
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style F fill:#bbf,stroke:#333,stroke-width:2px
+    style G fill:#bfb,stroke:#333,stroke-width:2px
+    style H fill:#bfb,stroke:#333,stroke-width:2px
+```
 
 ### 💼 Professional Experience Details
 
