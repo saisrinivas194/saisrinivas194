@@ -6,7 +6,9 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&pause=1000&color=00B4AB&center=true&vCenter=true&repeat=false&width=435&height=60&lines=Sai+Srinivas+Pedhapolla" alt="Name" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Sai+Srinivas+Pedhapolla" alt="Sai Srinivas Pedhapolla"/>
+  </h1>
 </div>
 
 <div align="center">
