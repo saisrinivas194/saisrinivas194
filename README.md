@@ -23,10 +23,14 @@
 
 <div align="center">
   <h1>🤖 Sai Srinivas Pedhapolla</h1>
-  <p align="center">
-    <a href="tel:+12017059891" target="_blank" rel="noopener noreferrer">(201) 705-9891</a> • 
-    <a href="mailto:pedhapollasaisrinivas@gmail.com" target="_blank" rel="noopener noreferrer">pedhapollasaisrinivas@gmail.com</a>
-  </p>
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+    <a href="tel:+12017059891" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/📞_(201)_705--9891-black?style=for-the-badge"/>
+    </a>
+    <a href="mailto:pedhapollasaisrinivas@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/📧_Email-pedhapollasaisrinivas@gmail.com-black?style=for-the-badge&logo=gmail"/>
+    </a>
+  </div>
   <p><em>Data Science graduate (May 2025) specializing in AI-powered web development, data analysis, and R&D. OPT eligible.</em></p>
 </div>
 
