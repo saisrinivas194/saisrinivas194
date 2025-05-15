@@ -36,38 +36,33 @@
 
 ```mermaid
 graph TB
-    classDef currentNode fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef completedNode fill:#bfb,stroke:#333,stroke-width:2px;
-    classDef futureNode fill:#bbf,stroke:#333,stroke-width:2px;
-    classDef courseNode fill:#ffd700,stroke:#333,stroke-width:2px;
-    classDef upcomingNode fill:#87ceeb,stroke:#333,stroke-width:2px;
-    classDef advancedNode fill:#98fb98,stroke:#333,stroke-width:2px;
+    classDef default fill:#000000,stroke:#333,stroke-width:2px,color:#ffffff;
 
     subgraph 2024-2025
-    A[Masters in Data Science]:::currentNode
+    A[Masters in Data Science]
     A --> B[NJIT]
     B --> C[GPA: 3.313/4.0]
     B --> D[Current Focus]
-    D --> E[Machine Learning]:::courseNode
-    D --> F[Deep Learning]:::courseNode
-    D --> G[NLP & Vision]:::courseNode
+    D --> E[Machine Learning]
+    D --> F[Deep Learning]
+    D --> G[NLP & Vision]
     B --> H[Upcoming]
-    H --> I[Big Data]:::upcomingNode
-    H --> J[Research]:::upcomingNode
+    H --> I[Big Data]
+    H --> J[Research]
     end
 
     subgraph 2019-2023
-    K[Bachelors in Computer Science]:::completedNode
+    K[Bachelors in Computer Science]
     K --> L[SCSVMV]
     L --> M[GPA: 9.43/10.0]
     L --> N[Core Studies]
-    N --> O[Programming]:::courseNode
-    N --> P[Data Structures]:::courseNode
-    N --> Q[Algorithms]:::courseNode
+    N --> O[Programming]
+    N --> P[Data Structures]
+    N --> Q[Algorithms]
     L --> R[Advanced]
-    R --> S[OS & Networks]:::advancedNode
-    R --> T[Databases]:::advancedNode
-    R --> U[Web Tech]:::advancedNode
+    R --> S[OS & Networks]
+    R --> T[Databases]
+    R --> U[Web Tech]
     end
 ```
 
@@ -195,33 +190,31 @@ mindmap
 
 ```mermaid
 graph TB
-    classDef currentRole fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef pastRole fill:#bfb,stroke:#333,stroke-width:2px;
-    classDef impact fill:#bbf,stroke:#333,stroke-width:2px;
+    classDef default fill:#000000,stroke:#333,stroke-width:2px,color:#ffffff;
 
     subgraph 2024-Present
-    A[Webdaddy]:::currentRole
+    A[Webdaddy]
     A --> B[R&D Intern]
     B --> C[Singapore]
     B --> D[Projects]
     D --> E[AI Systems]
     D --> F[Data Pipelines]
     D --> G[Automation]
-    B --> H[Impact]:::impact
+    B --> H[Impact]
     H --> I[35% ML Accuracy ↑]
     H --> J[40% Pipeline Efficiency ↑]
     H --> K[25% Coverage ↑]
     end
 
     subgraph 2023
-    L[Findem Inc.]:::pastRole
+    L[Findem Inc.]
     L --> M[R&D Developer]
     M --> N[Bengaluru]
     M --> O[Projects]
     O --> P[Data Processing]
     O --> Q[ML Systems]
     O --> R[Analytics]
-    M --> S[Impact]:::impact
+    M --> S[Impact]
     S --> T[98% Data Quality]
     S --> U[25% Classification ↑]
     S --> V[35% Efficiency ↑]
