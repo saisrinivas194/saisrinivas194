@@ -32,43 +32,45 @@
 
 ---
 
-### 🎓 Education & Skills Timeline
+### 🎓 Education Timeline
 
 ```mermaid
 timeline
-    title Educational Journey & Skills Acquisition
-    section SCSVMV University (9.43/10 GPA)
+    title Educational Journey
+    section SCSVMV University
         June 2019 : Started B.E. in Computer Science
-                  : Core Programming
-                  : - Python & Java
-                  : - Data Structures
-                  : - OOP Concepts
-        2020     : Software Development
-                  : - Database Systems
-                  : - Web Technologies
-                  : - Computer Networks
-        2021     : Advanced Topics
-                  : - Operating Systems
-                  : - Software Engineering
-                  : - System Design
+        2020     : Sophomore Year
+        2021     : Junior Year
         June 2023 : Graduation
-                  : - Final Project
-                  : - Technical Paper
+                  : - 9.43/10 GPA
+                  : - Technical Publications
                   : - Industry Training
-    section NJIT (3.313/4 GPA)
+    section NJIT
         Jan 2024 : Started M.S. in Data Science
-                  : Foundation Skills
-                  : - Machine Learning
-                  : - Statistical Analysis
-                  : - Python for Data Science
-        Current  : Advanced Topics
-                  : - Deep Learning
-                  : - NLP & Computer Vision
-                  : - AI & Prompt Engineering
+        Current  : Ongoing Studies
+                  : - 3.313/4 GPA
         May 2025 : Expected Graduation
-                  : - Big Data Processing
-                  : - Research Projects
-                  : - Industry Applications
+```
+
+### 🔄 Skills Progression Flow
+
+```mermaid
+graph LR
+    A[Foundational Skills] --> B[Programming]
+    A --> C[Mathematics]
+    B --> D[Advanced Programming]
+    C --> E[Statistical Analysis]
+    D --> F[AI & ML]
+    E --> F
+    F --> G[Deep Learning]
+    F --> H[NLP]
+    F --> I[Computer Vision]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style F fill:#bbf,stroke:#333,stroke-width:2px
+    style G fill:#bfb,stroke:#333,stroke-width:2px
+    style H fill:#bfb,stroke:#333,stroke-width:2px
+    style I fill:#bfb,stroke:#333,stroke-width:2px
 ```
 
 <details>
