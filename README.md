@@ -6,7 +6,6 @@
 </p>
 
 <h1 align="center">Sai Srinivas Pedhapolla</h1>
-<h3 align="center">Data Scientist | AI Developer | Analyst</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Sai+Srinivas+Pedhapolla;Data+Scientist;AI+Developer;Analyst" alt="Typing SVG" />
