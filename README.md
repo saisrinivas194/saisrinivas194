@@ -162,102 +162,205 @@ mindmap
 
 ---
 
-### 💼 Professional Experience
+### 💼 Professional Journey
 
 ```mermaid
-gantt
-    title Professional Timeline
-    dateFormat  YYYY-MM
-    section Webdaddy
-    R&D Intern (Remote)      :2024-08, 2025-02
-    section Findem
-    R&D Developer           :2023-07, 2023-12
+timeline
+    title Professional Growth & Impact
+    section 2024-2025
+        Current : Webdaddy, Singapore
+                : R&D Intern (Remote)
+                : AI & ML Development
+                : Data Pipeline Optimization
+    section 2023-2024
+        Past : Findem, Inc.
+             : R&D Developer
+             : Data Processing
+             : ML Implementation
 ```
 
-#### Research & Development Intern | Webdaddy | Singapore (Remote)
-*Aug 2024 - Feb 2025*
-
-```mermaid
-pie title Impact Metrics
-    "Labelling Efficiency" : 35
-    "Pipeline Automation" : 40
-    "Model Accuracy" : 25
-```
-
-<table>
-<tr>
-<td width="50%">
-<h5>🎯 Key Achievements</h5>
-<ul>
-<li>🔹 AI-powered annotation tools (35% ↑)</li>
-<li>🔹 ML models with TensorFlow & NLP</li>
-<li>🔹 Automated pipelines (40% ↑)</li>
-<li>🔹 Advanced EDA implementation</li>
-</ul>
-</td>
-<td width="50%">
-<h5>💻 Technologies</h5>
-<ul>
-<li>🔸 Python & TensorFlow</li>
-<li>🔸 NLP & ML Pipelines</li>
-<li>🔸 Data Analysis Tools</li>
-<li>🔸 Automation Scripts</li>
-</ul>
-</td>
-</tr>
-</table>
-
-#### Research & Development | Findem, Inc. | Bengaluru
-*Jul 2023 - Dec 2023*
-
-```mermaid
-pie title Project Success Metrics
-    "Model Accuracy" : 98
-    "Prediction Improvement" : 25
-    "Process Automation" : 35
-```
-
-<table>
-<tr>
-<td width="50%">
-<h5>🎯 Key Achievements</h5>
-<ul>
-<li>🔹 Data annotation (98% accuracy)</li>
-<li>🔹 Email classification (25% ↑)</li>
-<li>🔹 Automated validation tools</li>
-<li>🔹 Complex data processing</li>
-</ul>
-</td>
-<td width="50%">
-<h5>💻 Technologies</h5>
-<ul>
-<li>🔸 Python & ML Libraries</li>
-<li>🔸 Data Processing Tools</li>
-<li>🔸 Validation Frameworks</li>
-<li>🔸 Analytics Platforms</li>
-</ul>
-</td>
-</tr>
-</table>
+### 📈 Skills Growth & Impact Matrix
 
 ```mermaid
 quadrantChart
-    title Skills Growth & Impact
+    title Skills Growth & Impact Analysis
     x-axis Low Impact --> High Impact
     y-axis New Skills --> Mastered Skills
     quadrant-1 Developing
     quadrant-2 Excelling
     quadrant-3 Supporting
     quadrant-4 Leading
-    "AI Tools": [0.8, 0.7]
-    "NLP": [0.9, 0.8]
-    "Data Processing": [0.7, 0.9]
-    "Automation": [0.8, 0.8]
-    "Python": [0.9, 0.9]
-    "ML Models": [0.8, 0.7]
+    "AI/ML": [0.9, 0.8]
+    "Data Science": [0.85, 0.9]
+    "Python": [0.95, 0.95]
+    "Deep Learning": [0.8, 0.7]
+    "NLP": [0.85, 0.75]
+    "Data Processing": [0.9, 0.85]
+    "TensorFlow": [0.75, 0.7]
+    "Analytics": [0.85, 0.8]
+    "Automation": [0.8, 0.85]
+    "Web Dev": [0.7, 0.75]
 ```
 
----
+<div align="center">
+
+<div style="margin: 20px 0;">
+    <h4>🎯 Skill Proficiency Levels</h4>
+    
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
+        <!-- Expert Level -->
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Python-Expert_(95%25)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Data_Science-Expert_(90%25)-FF6F00?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
+        </a>
+        <br/>
+        <!-- Advanced Level -->
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/AI/ML-Advanced_(85%25)-00B4AB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Data_Processing-Advanced_(85%25)-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+        </a>
+        <br/>
+        <!-- Intermediate Level -->
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Deep_Learning-Intermediate_(75%25)-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/NLP-Intermediate_(75%25)-4C51BF?style=for-the-badge&logo=nlp&logoColor=white"/>
+        </a>
+    </div>
+</div>
+
+<div style="margin: 40px 0;">
+    <h4>📊 Impact Analysis</h4>
+    
+    ```mermaid
+    pie title "Technical Impact Distribution"
+        "Data Science & ML" : 35
+        "AI Development" : 30
+        "Automation & Processing" : 20
+        "Web Development" : 15
+    ```
+</div>
+
+<div style="margin: 20px 0;">
+    <h4>🚀 Growth Trajectory</h4>
+    
+    ```mermaid
+    graph LR
+        A[Core Skills] --> B[Data Science]
+        A --> C[Programming]
+        B --> D[Advanced Analytics]
+        C --> E[AI/ML Development]
+        D --> F[Specialized ML]
+        E --> F
+        F --> G[Deep Learning]
+        F --> H[NLP Applications]
+        
+        style A fill:#f9f,stroke:#333,stroke-width:2px
+        style F fill:#bbf,stroke:#333,stroke-width:2px
+        style G fill:#bfb,stroke:#333,stroke-width:2px
+        style H fill:#bfb,stroke:#333,stroke-width:2px
+    ```
+</div>
+
+</div>
+
+### 💼 Professional Experience Details
+
+<div align="center">
+
+<div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
+    <h4>🔬 Research & Development Intern | Webdaddy</h4>
+    <p><em>Singapore (Remote) | Aug 2024 - Feb 2025</em></p>
+    
+    <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Focus-AI_Development-00B4AB?style=for-the-badge"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Impact-High-00B4AB?style=for-the-badge"/>
+        </a>
+    </div>
+
+    <div style="margin: 20px 0;">
+        <h5>🎯 Key Achievements</h5>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/ML_Models-Accuracy_35%25_↑-success?style=flat-square"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Data_Pipeline-Efficiency_40%25_↑-success?style=flat-square"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Automation-Coverage_25%25_↑-success?style=flat-square"/>
+        </a>
+    </div>
+
+    <div style="margin: 20px 0;">
+        <h5>💻 Technical Expertise</h5>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/AI_Development-Advanced-3776AB?style=flat-square&logo=python"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/ML_Pipelines-Expert-FF6F00?style=flat-square&logo=tensorflow"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Data_Processing-Advanced-4479A1?style=flat-square"/>
+        </a>
+    </div>
+</div>
+
+<div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
+    <h4>🔬 Research & Development | Findem, Inc.</h4>
+    <p><em>Bengaluru, India | Jul 2023 - Dec 2023</em></p>
+    
+    <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Focus-Data_Processing-4C51BF?style=for-the-badge"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Impact-Significant-4C51BF?style=for-the-badge"/>
+        </a>
+    </div>
+
+    <div style="margin: 20px 0;">
+        <h5>🎯 Key Achievements</h5>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Data_Quality-Accuracy_98%25-success?style=flat-square"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/ML_Classification-Precision_25%25_↑-success?style=flat-square"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Process_Efficiency-35%25_↑-success?style=flat-square"/>
+        </a>
+    </div>
+
+    <div style="margin: 20px 0;">
+        <h5>💻 Technical Expertise</h5>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Data_Science-Expert-3776AB?style=flat-square&logo=python"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/ML_Algorithms-Advanced-FF6F00?style=flat-square"/>
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Analytics-Expert-00C7B7?style=flat-square"/>
+        </a>
+    </div>
+</div>
+
+</div>
+
+```mermaid
+pie title "Impact Distribution"
+    "Technical Innovation" : 40
+    "Process Improvement" : 35
+    "Efficiency Gains" : 25
+```
 
 ### 🚀 Projects & Impact
 
