@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://github.com/saisrinivas194" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/saisrinivas194/saisrinivas194/main/assets/banner-ai.gif" alt="Sai Srinivas Pedhapolla - Data Scientist | AI Developer | Analyst" width="100%" />
+    <img src="https://raw.githubusercontent.com/saisrinivas194/saisrinivas194/main/assets/banner-ai.gif" alt="Data Scientist | AI Developer | Analyst" width="100%" />
   </a>
 </p>
 
