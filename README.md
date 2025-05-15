@@ -37,9 +37,33 @@
 ```mermaid
 timeline
     title Academic Timeline
-    section Higher Education
-        2024 : New Jersey Institute of Technology
-        2023 : SCSVMV University
+    section Masters in Data Science
+        2024 : Started at NJIT
+             : GPA: 3.313/4.0
+             : Core Courses
+             : - Machine Learning
+             : - Statistical Analysis
+             : - Deep Learning
+             : - NLP & Computer Vision
+        2025 : Expected Graduation
+             : Advanced Topics
+             : - Big Data Analytics
+             : - Research Projects
+             : - Industry Applications
+    section Bachelors in Computer Science
+        2019 : Started at SCSVMV
+             : Core Computing
+             : - Programming
+             : - Data Structures
+             : - Algorithms
+        2021 : Advanced Topics
+             : - Operating Systems
+             : - Database Systems
+             : - Web Technologies
+        2023 : Graduation
+             : GPA: 9.43/10.0
+             : - Technical Papers
+             : - Industry Training
 ```
 
 <div align="center">
@@ -166,40 +190,27 @@ mindmap
 
 ```mermaid
 timeline
-    title Professional Growth & Impact
-    section 2024-2025
-        Current : Webdaddy, Singapore
-                : R&D Intern (Remote)
-                : AI & ML Development
-                : Data Pipeline Optimization
-    section 2023-2024
-        Past : Findem, Inc.
-             : R&D Developer
-             : Data Processing
-             : ML Implementation
-```
-
-### 📈 Skills Growth & Impact Matrix
-
-```mermaid
-quadrantChart
-    title Skills Growth & Impact Analysis
-    x-axis Low Impact --> High Impact
-    y-axis New Skills --> Mastered Skills
-    quadrant-1 Developing
-    quadrant-2 Excelling
-    quadrant-3 Supporting
-    quadrant-4 Leading
-    "AI/ML": [0.9, 0.8]
-    "Data Science": [0.85, 0.9]
-    "Python": [0.95, 0.95]
-    "Deep Learning": [0.8, 0.7]
-    "NLP": [0.85, 0.75]
-    "Data Processing": [0.9, 0.85]
-    "TensorFlow": [0.75, 0.7]
-    "Analytics": [0.85, 0.8]
-    "Automation": [0.8, 0.85]
-    "Web Dev": [0.7, 0.75]
+    title Career Timeline
+    section Webdaddy
+        2024 : R&D Intern (Freelance)
+             : Singapore
+             : Key Projects
+             : - AI/ML Development
+             : - Data Pipeline Optimization
+             : - Automation Systems
+             : Impact
+             : - 35% ML Accuracy ↑
+             : - 40% Pipeline Efficiency ↑
+    section Findem, Inc.
+        2023 : R&D Developer
+             : Bengaluru, India
+             : Key Projects
+             : - Data Processing
+             : - ML Implementation
+             : - Analytics Systems
+             : Impact
+             : - 98% Data Quality
+             : - 25% Classification Accuracy ↑
 ```
 
 ### 🎯 Skill Proficiency Levels
@@ -266,7 +277,7 @@ graph LR
 <div align="center">
 <div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
 <h4>🔬 Research & Development Intern | Webdaddy</h4>
-<p><em>Singapore (Remote) | Aug 2024 - Feb 2025</em></p>
+<p><em>Singapore (Freelance) | Aug 2024 - Feb 2025</em></p>
 
 <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
 <a href="#" target="_blank" rel="noopener noreferrer">
