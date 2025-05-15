@@ -255,6 +255,22 @@ graph TB
     end
 ```
 
+### 📊 GitHub Activity
+
+<div align="center">
+  <!-- Contribution Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=saisrinivas194&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saisrinivas194&theme=dark" alt="Contribution Graph" />
+  
+  <!-- Languages Graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisrinivas194&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saisrinivas194&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
 ### 📊 Current Stats
 
 <div align="center">
