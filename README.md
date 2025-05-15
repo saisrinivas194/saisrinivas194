@@ -234,7 +234,7 @@
 ---
 
 <div align="center">
-  <i>📍 423 Scott mobus pl, Harrison 07029 • OPT Eligible • Data Science Graduate (May 2025)</i>
+  <i>OPT Eligible • Data Science Graduate (May 2025)</i>
 </div>
 
 ```mermaid
