@@ -87,13 +87,12 @@
       <img src="https://img.shields.io/badge/Webdaddy-R&D_Intern-FF6B6B?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Aug_2023_--_Feb_2024-Singapore_(Remote)-00B4AB?style=for-the-badge"/>
     </h4>
-    <ul>
-      <li>🔹 Developed AI-powered data annotation tools, improving efficiency by 35%</li>
-      <li>🔹 Built ML models for text classification using TensorFlow</li>
-      <li>🔹 Automated data pipelines, reducing manual effort by 40%</li>
-      <li>🔹 Conducted EDA to improve model accuracy</li>
-    </ul>
   </div>
+  
+  - 🔹 Developed AI-powered data annotation tools, improving efficiency by 35%
+  - 🔹 Built ML models for text classification using TensorFlow
+  - 🔹 Automated data pipelines, reducing manual effort by 40%
+  - 🔹 Conducted EDA to improve model accuracy
 
   <!-- Previous Role -->
   <div align="center">
@@ -101,13 +100,12 @@
       <img src="https://img.shields.io/badge/Findem,_Inc.-R&D_Developer-4C51BF?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Jul_2023_--_Dec_2023-Bengaluru-4C51BF?style=for-the-badge"/>
     </h4>
-    <ul>
-      <li>🔹 Managed data annotation projects with 98% accuracy</li>
-      <li>🔹 Developed Python scripts for complex data analysis</li>
-      <li>🔹 Improved email classification accuracy by 25%</li>
-      <li>🔹 Created automated data validation tools</li>
-    </ul>
   </div>
+  
+  - 🔹 Managed data annotation projects with 98% accuracy
+  - 🔹 Developed Python scripts for complex data analysis
+  - 🔹 Improved email classification accuracy by 25%
+  - 🔹 Created automated data validation tools
 
   <!-- Featured Projects -->
   <h3>🌟 Featured Projects</h3>
@@ -120,13 +118,12 @@
       </a>
       <img src="https://img.shields.io/badge/ReactJS_|_NextJS_|_ChatGPT-Nov_2023_--_Jan_2024-2ea44f?style=for-the-badge"/>
     </h4>
-    <ul>
-      <li>🚀 Built responsive website using AI-generated code & SEO best practices</li>
-      <li>🚀 50% faster development through AI-assisted programming</li>
-      <li>🚀 Integrated Google Maps API, boosting local traffic by 150%</li>
-      <li>🚀 Achieved 95% uptime reliability</li>
-    </ul>
   </div>
+  
+  - 🚀 Built responsive website using AI-generated code & SEO best practices
+  - 🚀 50% faster development through AI-assisted programming
+  - 🚀 Integrated Google Maps API, boosting local traffic by 150%
+  - 🚀 Achieved 95% uptime reliability
 
   <!-- Traffic Analysis -->
   <div align="center">
@@ -136,13 +133,12 @@
       </a>
       <img src="https://img.shields.io/badge/Python_|_Analytics-Oct_2023_--_Dec_2023-00B4AB?style=for-the-badge"/>
     </h4>
-    <ul>
-      <li>📊 Analyzed 10,000+ daily requests for traffic patterns</li>
-      <li>📊 Reduced latency by 15% through protocol optimization</li>
-      <li>📊 Enhanced security across 5+ critical endpoints</li>
-      <li>📊 Built real-time diagnostic dashboards</li>
-    </ul>
   </div>
+  
+  - 📊 Analyzed 10,000+ daily requests for traffic patterns
+  - 📊 Reduced latency by 15% through protocol optimization
+  - 📊 Enhanced security across 5+ critical endpoints
+  - 📊 Built real-time diagnostic dashboards
 
   <!-- Loan Wise -->
   <div align="center">
@@ -152,13 +148,12 @@
       </a>
       <img src="https://img.shields.io/badge/React_|_Node_|_Tableau-Aug_2023_--_Oct_2023-4C51BF?style=for-the-badge"/>
     </h4>
-    <ul>
-      <li>💡 Cut loan processing time by 30% through R&D</li>
-      <li>💡 Boosted user engagement by 25% with AI content</li>
-      <li>💡 Reduced form abandonment by 20%</li>
-      <li>💡 Created risk assessment dashboards</li>
-    </ul>
   </div>
+  
+  - 💡 Cut loan processing time by 30% through R&D
+  - 💡 Boosted user engagement by 25% with AI content
+  - 💡 Reduced form abandonment by 20%
+  - 💡 Created risk assessment dashboards
 
   <!-- Data Science Projects -->
   <h3>🤖 Data Science Portfolio</h3>
