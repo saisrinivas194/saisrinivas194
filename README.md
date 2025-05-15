@@ -264,87 +264,85 @@ graph LR
 ### 💼 Professional Experience Details
 
 <div align="center">
-
 <div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
-    <h4>🔬 Research & Development Intern | Webdaddy</h4>
-    <p><em>Singapore (Remote) | Aug 2024 - Feb 2025</em></p>
-    
-    <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Focus-AI_Development-00B4AB?style=for-the-badge"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Impact-High-00B4AB?style=for-the-badge"/>
-        </a>
-    </div>
+<h4>🔬 Research & Development Intern | Webdaddy</h4>
+<p><em>Singapore (Remote) | Aug 2024 - Feb 2025</em></p>
 
-    <div style="margin: 20px 0;">
-        <h5>🎯 Key Achievements</h5>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/ML_Models-Accuracy_35%25_↑-success?style=flat-square"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Data_Pipeline-Efficiency_40%25_↑-success?style=flat-square"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Automation-Coverage_25%25_↑-success?style=flat-square"/>
-        </a>
-    </div>
+<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Focus-AI_Development-00B4AB?style=for-the-badge"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Impact-High-00B4AB?style=for-the-badge"/>
+</a>
+</div>
 
-    <div style="margin: 20px 0;">
-        <h5>💻 Technical Expertise</h5>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/AI_Development-Advanced-3776AB?style=flat-square&logo=python"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/ML_Pipelines-Expert-FF6F00?style=flat-square&logo=tensorflow"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Data_Processing-Advanced-4479A1?style=flat-square"/>
-        </a>
-    </div>
+<div style="margin: 20px 0;">
+<h5>🎯 Key Achievements</h5>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/ML_Models-Accuracy_35%25_↑-success?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Data_Pipeline-Efficiency_40%25_↑-success?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Automation-Coverage_25%25_↑-success?style=flat-square"/>
+</a>
+</div>
+
+<div style="margin: 20px 0;">
+<h5>💻 Technical Expertise</h5>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/AI_Development-Advanced-3776AB?style=flat-square&logo=python"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/ML_Pipelines-Expert-FF6F00?style=flat-square&logo=tensorflow"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Data_Processing-Advanced-4479A1?style=flat-square"/>
+</a>
+</div>
 </div>
 
 <div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
-    <h4>🔬 Research & Development | Findem, Inc.</h4>
-    <p><em>Bengaluru, India | Jul 2023 - Dec 2023</em></p>
-    
-    <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Focus-Data_Processing-4C51BF?style=for-the-badge"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Impact-Significant-4C51BF?style=for-the-badge"/>
-        </a>
-    </div>
+<h4>🔬 Research & Development | Findem, Inc.</h4>
+<p><em>Bengaluru, India | Jul 2023 - Dec 2023</em></p>
 
-    <div style="margin: 20px 0;">
-        <h5>🎯 Key Achievements</h5>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Data_Quality-Accuracy_98%25-success?style=flat-square"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/ML_Classification-Precision_25%25_↑-success?style=flat-square"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Process_Efficiency-35%25_↑-success?style=flat-square"/>
-        </a>
-    </div>
-
-    <div style="margin: 20px 0;">
-        <h5>💻 Technical Expertise</h5>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Data_Science-Expert-3776AB?style=flat-square&logo=python"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/ML_Algorithms-Advanced-FF6F00?style=flat-square"/>
-        </a>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Analytics-Expert-00C7B7?style=flat-square"/>
-        </a>
-    </div>
+<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Focus-Data_Processing-4C51BF?style=for-the-badge"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Impact-Significant-4C51BF?style=for-the-badge"/>
+</a>
 </div>
 
+<div style="margin: 20px 0;">
+<h5>🎯 Key Achievements</h5>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Data_Quality-Accuracy_98%25-success?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/ML_Classification-Precision_25%25_↑-success?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Process_Efficiency-35%25_↑-success?style=flat-square"/>
+</a>
+</div>
+
+<div style="margin: 20px 0;">
+<h5>💻 Technical Expertise</h5>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Data_Science-Expert-3776AB?style=flat-square&logo=python"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/ML_Algorithms-Advanced-FF6F00?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Analytics-Expert-00C7B7?style=flat-square"/>
+</a>
+</div>
+</div>
 </div>
 
 ```mermaid
