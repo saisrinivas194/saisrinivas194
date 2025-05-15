@@ -48,26 +48,73 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nodejs,mongodb,mysql,aws" alt="Skills" />
 </div>
 
-### 🎓 Current Education
+### 🎓 Education
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/NJIT-M.S._Data_Science-00B4AB?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GPA-3.313/4.0-00B4AB?style=for-the-badge"/></a>
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Expected_Graduation-May_2025-00B4AB?style=flat-square"/></a>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/NJIT-M.S._Data_Science-00B4AB?style=for-the-badge"/>
+        <br/>
+        <img src="https://img.shields.io/badge/GPA-3.313/4.0-00B4AB?style=flat-square"/>
+        <br/>
+        <img src="https://img.shields.io/badge/2023_--_2025-New_Jersey_Institute_of_Technology-00B4AB?style=flat-square"/>
+        <br/>
+        <small>Key Courses: Machine Learning, Deep Learning, Data Mining, Big Data</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JNTUH-B.Tech_Computer_Science-FF6B6B?style=for-the-badge"/>
+        <br/>
+        <img src="https://img.shields.io/badge/GPA-3.5/4.0-FF6B6B?style=flat-square"/>
+        <br/>
+        <img src="https://img.shields.io/badge/2019_--_2023-JNTU_Hyderabad-FF6B6B?style=flat-square"/>
+        <br/>
+        <small>Focus: AI, Data Structures, Algorithms</small>
+      </td>
+    </tr>
+  </table>
 </div>
 
-```mermaid
-graph TB
-    classDef default fill:#000000,stroke:#333,stroke-width:2px,color:#ffffff;
+### 🚀 Projects
 
-    subgraph Current Focus
-    A[Machine Learning] --> B[Deep Learning]
-    A --> C[NLP & Vision]
-    B --> D[Neural Networks]
-    C --> E[Computer Vision]
-    end
-```
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+  <!-- Traffic Analysis Tool -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://github.com/saisrinivas194/Traffic-analysis-tool-" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=Traffic-analysis-tool-&theme=dark&hide_border=true" />
+    </a>
+    <br/>
+    <img src="https://img.shields.io/badge/Tech-Python_|_OpenCV_|_YOLOv5-2ea44f?style=flat-square"/>
+    <p>Real-time traffic monitoring system with vehicle detection and classification</p>
+  </div>
+
+  <!-- Loan Wise -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://loanwise.sg" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=loan-wise&theme=dark&hide_border=true" />
+    </a>
+    <br/>
+    <img src="https://img.shields.io/badge/Tech-React_|_Node.js_|_ML-2ea44f?style=flat-square"/>
+    <p>AI-powered loan recommendation platform with credit risk assessment</p>
+  </div>
+
+  <!-- AI Research Projects -->
+  <div style="margin-bottom: 20px;">
+    <h4>🔬 Research Projects</h4>
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/NLP-Sentiment_Analysis-blue?style=flat-square"/>
+          <p>Social media sentiment analysis using transformers</p>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/CV-Object_Detection-green?style=flat-square"/>
+          <p>Real-time object detection for autonomous systems</p>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 ### 💼 Current Role
 
