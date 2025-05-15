@@ -78,41 +78,87 @@
 ### 🚀 Projects
 
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
-  <!-- Traffic Analysis Tool -->
+  <!-- Web Development Projects -->
   <div style="margin-bottom: 20px;">
-    <a href="https://github.com/saisrinivas194/Traffic-analysis-tool-" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=Traffic-analysis-tool-&theme=dark&hide_border=true" />
-    </a>
-    <br/>
-    <img src="https://img.shields.io/badge/Tech-Python_|_OpenCV_|_YOLOv5-2ea44f?style=flat-square"/>
-    <p>Real-time traffic monitoring system with vehicle detection and classification</p>
+    <h4>🌐 Web Development & AI Integration</h4>
+    <!-- AI-Powered Real Estate Website -->
+    <div style="margin-bottom: 20px;">
+      <a href="https://www.jcrbuilders.in/" target="_blank">
+        <img src="https://img.shields.io/badge/JCR_Builders-Real_Estate_Website-FF6B6B?style=for-the-badge"/>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Tech-ReactJS_|_NextJS_|_ChatGPT-2ea44f?style=flat-square"/>
+      <p>AI-powered real estate platform with 95% uptime and 150% local traffic boost</p>
+      <ul>
+        <li>Built responsive website using AI-generated code and SEO best practices</li>
+        <li>Reduced development time by 50% through AI-assisted programming</li>
+        <li>Integrated Google Maps API with location metadata</li>
+      </ul>
+    </div>
+
+    <!-- Loan Wise -->
+    <div style="margin-bottom: 20px;">
+      <a href="https://loanwise.sg" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=loan-wise&theme=dark&hide_border=true" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Tech-React_|_Node.js_|_Tableau-2ea44f?style=flat-square"/>
+      <p>AI-powered loan recommendation platform with optimized workflows</p>
+      <ul>
+        <li>Reduced loan processing time by 30% through R&D improvements</li>
+        <li>Increased user engagement by 25% with AI-driven content strategies</li>
+        <li>Reduced form abandonment by 20% through UX improvements</li>
+      </ul>
+    </div>
   </div>
 
-  <!-- Loan Wise -->
+  <!-- Data Analysis & Traffic Monitoring -->
   <div style="margin-bottom: 20px;">
-    <a href="https://loanwise.sg" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=loan-wise&theme=dark&hide_border=true" />
-    </a>
-    <br/>
-    <img src="https://img.shields.io/badge/Tech-React_|_Node.js_|_ML-2ea44f?style=flat-square"/>
-    <p>AI-powered loan recommendation platform with credit risk assessment</p>
+    <h4>📊 Data Analysis & Network Security</h4>
+    <!-- Traffic Analysis Tool -->
+    <div style="margin-bottom: 20px;">
+      <a href="https://github.com/saisrinivas194/Traffic-analysis-tool-" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=Traffic-analysis-tool-&theme=dark&hide_border=true" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Tech-Python_|_HTTP/HTTPS_Analysis-2ea44f?style=flat-square"/>
+      <p>Real-time traffic monitoring and security analysis system</p>
+      <ul>
+        <li>Monitored 10,000+ daily web requests for pattern analysis</li>
+        <li>Reduced latency by 15% through protocol optimization</li>
+        <li>Built real-time diagnostic dashboards for traffic analysis</li>
+      </ul>
+    </div>
   </div>
 
-  <!-- AI Research Projects -->
+  <!-- Research & Development -->
   <div style="margin-bottom: 20px;">
-    <h4>🔬 Research Projects</h4>
+    <h4>🔬 Research & Development</h4>
     <table>
       <tr>
         <td align="center">
-          <img src="https://img.shields.io/badge/NLP-Sentiment_Analysis-blue?style=flat-square"/>
-          <p>Social media sentiment analysis using transformers</p>
+          <img src="https://img.shields.io/badge/AI-Data_Annotation_Tools-blue?style=flat-square"/>
+          <p>Python-based annotation tools with 35% efficiency boost</p>
         </td>
         <td align="center">
-          <img src="https://img.shields.io/badge/CV-Object_Detection-green?style=flat-square"/>
-          <p>Real-time object detection for autonomous systems</p>
+          <img src="https://img.shields.io/badge/ML-Text_Classification-green?style=flat-square"/>
+          <p>Email classification with 25% accuracy improvement</p>
         </td>
       </tr>
     </table>
+  </div>
+
+  <!-- Data Science Projects -->
+  <div style="margin-bottom: 20px;">
+    <h4>🤖 Machine Learning & Analytics</h4>
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+      <a href="https://github.com/saisrinivas194/Netflix-Movies-and-TV-shows-analysis" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=Netflix-Movies-and-TV-shows-analysis&theme=dark&hide_border=true" />
+      </a>
+      <a href="https://github.com/saisrinivas194/Customer-Personality-Analysis-" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=Customer-Personality-Analysis-&theme=dark&hide_border=true" />
+      </a>
+    </div>
   </div>
 </div>
 
