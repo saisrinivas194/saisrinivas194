@@ -35,47 +35,37 @@
 ### 🎓 Education Journey
 
 ```mermaid
-gantt
-    title Academic Timeline
-    dateFormat  YYYY
-    section NJIT (Masters)
-    Data Science Program     :2024, 2025
-    Core ML & Stats         :2024, 2024
-    Advanced AI & NLP       :2024, 2025
-    Research Projects       :2025, 2025
-    section SCSVMV (Bachelors)
-    Computer Science Program :2019, 2023
-    Core Computing          :2019, 2020
-    Advanced Topics         :2021, 2022
-    Industry Training       :2023, 2023
-```
+graph TB
+    classDef currentNode fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef completedNode fill:#bfb,stroke:#333,stroke-width:2px;
+    classDef futureNode fill:#bbf,stroke:#333,stroke-width:2px;
 
-```mermaid
-graph LR
-    subgraph NJIT
-    A[M.S. Data Science] --> B[Core Phase]
-    B --> C[Advanced Phase]
-    B --> D[GPA: 3.313/4.0]
-    C --> E[Specializations]
-    E --> F[Machine Learning]
-    E --> G[Deep Learning]
-    E --> H[NLP & Vision]
-    end
-    
-    subgraph SCSVMV
-    I[B.E. Computer Science] --> J[Foundation]
-    J --> K[Advanced Studies]
-    J --> L[GPA: 9.43/10.0]
-    K --> M[Key Areas]
-    M --> N[Systems]
-    M --> O[Development]
-    M --> P[Databases]
+    subgraph 2024-2025
+    A[Masters in Data Science]:::currentNode
+    A --> B[NJIT]
+    B --> C[GPA: 3.313/4.0]
+    B --> D[Current Focus]
+    D --> E[Machine Learning]
+    D --> F[Deep Learning]
+    D --> G[NLP & Vision]
+    B --> H[Upcoming]
+    H --> I[Big Data]
+    H --> J[Research]
     end
 
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style I fill:#bbf,stroke:#333,stroke-width:2px
-    style E fill:#bfb,stroke:#333,stroke-width:2px
-    style M fill:#bfb,stroke:#333,stroke-width:2px
+    subgraph 2019-2023
+    K[Bachelors in Computer Science]:::completedNode
+    K --> L[SCSVMV]
+    L --> M[GPA: 9.43/10.0]
+    L --> N[Core Studies]
+    N --> O[Programming]
+    N --> P[Data Structures]
+    N --> Q[Algorithms]
+    L --> R[Advanced]
+    R --> S[OS & Networks]
+    R --> T[Databases]
+    R --> U[Web Tech]
+    end
 ```
 
 <div align="center">
@@ -201,53 +191,38 @@ mindmap
 ### 💼 Professional Journey
 
 ```mermaid
-gantt
-    title Career Progression
-    dateFormat  YYYY-MM
-    section Webdaddy
-    R&D Intern (Freelance)  :2024-08, 2025-02
-    AI Development          :2024-08, 2025-02
-    Pipeline Optimization   :2024-09, 2025-02
-    section Findem
-    R&D Developer          :2023-07, 2023-12
-    Data Processing        :2023-07, 2023-12
-    ML Implementation      :2023-08, 2023-12
-```
-
-```mermaid
 graph TB
-    subgraph Current Role
-    A[Webdaddy] --> B[R&D Intern]
-    B --> C[Key Projects]
-    C --> D[AI/ML Systems]
-    C --> E[Data Pipelines]
-    C --> F[Automation]
-    
-    subgraph Impact
-    D --> G[35% ML Accuracy ↑]
-    E --> H[40% Efficiency ↑]
-    F --> I[25% Coverage ↑]
-    end
-    end
-    
-    subgraph Previous Role
-    J[Findem Inc.] --> K[R&D Developer]
-    K --> L[Focus Areas]
-    L --> M[Data Processing]
-    L --> N[ML Systems]
-    L --> O[Analytics]
-    
-    subgraph Results
-    M --> P[98% Data Quality]
-    N --> Q[25% Accuracy ↑]
-    O --> R[35% Efficiency ↑]
-    end
+    classDef currentRole fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef pastRole fill:#bfb,stroke:#333,stroke-width:2px;
+    classDef impact fill:#bbf,stroke:#333,stroke-width:2px;
+
+    subgraph 2024-Present
+    A[Webdaddy]:::currentRole
+    A --> B[R&D Intern]
+    B --> C[Singapore]
+    B --> D[Projects]
+    D --> E[AI Systems]
+    D --> F[Data Pipelines]
+    D --> G[Automation]
+    B --> H[Impact]:::impact
+    H --> I[35% ML Accuracy ↑]
+    H --> J[40% Pipeline Efficiency ↑]
+    H --> K[25% Coverage ↑]
     end
 
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style J fill:#bbf,stroke:#333,stroke-width:2px
-    style C fill:#bfb,stroke:#333,stroke-width:2px
-    style L fill:#bfb,stroke:#333,stroke-width:2px
+    subgraph 2023
+    L[Findem Inc.]:::pastRole
+    L --> M[R&D Developer]
+    M --> N[Bengaluru]
+    M --> O[Projects]
+    O --> P[Data Processing]
+    O --> Q[ML Systems]
+    O --> R[Analytics]
+    M --> S[Impact]:::impact
+    S --> T[98% Data Quality]
+    S --> U[25% Classification ↑]
+    S --> V[35% Efficiency ↑]
+    end
 ```
 
 ### 🎯 Skill Proficiency Levels
