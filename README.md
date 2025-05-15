@@ -35,113 +35,308 @@
 ### 🎓 Education
 
 ```mermaid
-timeline
-    title Academic Journey
-    2023 : B.E. in CSE (9.43/10) : SCSVMV University
-        : Data Structures & Algorithms
-        : Object-Oriented Programming
-        : Web Technologies
-    2025 : M.S. in Data Science (3.313/4) : NJIT
-        : Machine Learning & Deep Learning
-        : AI & Prompt Engineering
-        : Big Data Processing
+journey
+    title Academic and Learning Journey
+    section SCSVMV University (9.43/10)
+        B.E. in Computer Science: 5: 2019-2023
+        Data Structures & Algorithms: 5
+        Object-Oriented Programming: 4
+        Database Management: 4
+        Computer Networks: 4
+        Operating Systems: 4
+        Web Technologies: 5
+        Python Programming: 5
+        Java Development: 4
+    section NJIT (3.313/4)
+        M.S. in Data Science: 5: 2024-2025
+        Machine Learning: 5
+        Deep Learning: 5
+        AI & Prompt Engineering: 5
+        Web Development: 4
+        Data Visualization: 4
+        Big Data Processing: 4
+        Statistical Analysis: 4
 ```
 
----
+<details>
+<summary>📚 Coursework Details</summary>
 
-### 💼 Professional Experience
+#### NJIT (2024-2025)
+- **Core Data Science**
+  - Advanced Machine Learning Algorithms
+  - Neural Networks & Deep Learning
+  - Big Data Analytics & Processing
+  - Statistical Methods in Data Science
+  
+- **AI & Development**
+  - AI & Prompt Engineering Techniques
+  - Full Stack Development
+  - Data Visualization & Analytics
+  - Cloud Computing & Distributed Systems
 
-#### Research & Development Intern | Webdaddy | Singapore (Remote)
-*Aug 2024 - Feb 2025*
-
-```mermaid
-graph LR
-    A[AI Tools] -->|+35%| B[Labelling Efficiency]
-    C[ML Models] -->|NLP| D[Text Classification]
-    E[Automation] -->|+40%| F[Manual Effort Reduction]
-```
-
-- 🔹 Developed AI-powered data annotation tools in Python
-- 🔹 Built ML models using TensorFlow and NLP
-- 🔹 Automated data pipelines with 40% efficiency gain
-- 🔹 Conducted comprehensive EDA for trends
-
-#### Research & Development | Findem, Inc. | Bengaluru
-*Jul 2023 - Dec 2023*
-
-```mermaid
-graph LR
-    A[Data Annotation] -->|98%| B[Model Accuracy]
-    C[Email Classification] -->|+25%| D[Prediction Accuracy]
-    E[Automation] -->|Tools| F[Data Validation]
-```
-
----
-
-### 🛠️ Technical Skills
-
-<details open>
-<summary>💻 Core Competencies</summary>
-
-| Category | Skills |
-|----------|--------|
-| **Programming** | Python (Pandas, NumPy, scikit-learn, TensorFlow, PyTorch), SQL |
-| **AI/ML** | Deep Learning, NLP, Computer Vision, Prompt Engineering |
-| **Data Analytics** | Tableau, Excel, EDA, Statistical Analysis |
-| **Web Development** | ReactJS, HTML/CSS, API Integration |
-| **Cloud & Tools** | AWS (Basic), Git, Jupyter, Google Colab |
+#### SCSVMV (2019-2023)
+- **Computer Science Fundamentals**
+  - Data Structures & Algorithms
+  - Object-Oriented Programming
+  - Database Management Systems
+  - Computer Networks
+  
+- **Development & Tools**
+  - Web Technologies & Frameworks
+  - Python & Java Programming
+  - Software Engineering Principles
+  - Operating Systems
 
 </details>
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Professional Experience
+
+```mermaid
+gantt
+    title Professional Timeline
+    dateFormat  YYYY-MM
+    section Webdaddy
+    R&D Intern (Remote)      :2024-08, 2025-02
+    section Findem
+    R&D Developer           :2023-07, 2023-12
+```
+
+#### Research & Development Intern | Webdaddy | Singapore (Remote)
+*Aug 2024 - Feb 2025*
+
+```mermaid
+pie title Impact Metrics
+    "Labelling Efficiency" : 35
+    "Pipeline Automation" : 40
+    "Model Accuracy" : 25
+```
 
 <table>
 <tr>
-<td width="33%">
-<h4>🔍 <a href="https://github.com/saisrinivas194/Traffic-analysis-tool-">Traffic Analysis Tool</a></h4>
-<img src="https://via.placeholder.com/300x200/3498db/ffffff?text=Traffic+Analysis" alt="Traffic Analysis"/>
+<td width="50%">
+<h5>🎯 Key Achievements</h5>
 <ul>
-<li>10,000+ daily requests monitored</li>
-<li>15% latency reduction</li>
-<li>5+ endpoints secured</li>
+<li>🔹 AI-powered annotation tools (35% ↑)</li>
+<li>🔹 ML models with TensorFlow & NLP</li>
+<li>🔹 Automated pipelines (40% ↑)</li>
+<li>🔹 Advanced EDA implementation</li>
 </ul>
-<p><em>Tech: Python, Data Analysis</em></p>
 </td>
-<td width="33%">
-<h4>🏦 <a href="https://loanwise.sg">Loan Wise</a></h4>
-<img src="https://via.placeholder.com/300x200/2ecc71/ffffff?text=Loan+Wise" alt="Loan Wise"/>
+<td width="50%">
+<h5>💻 Technologies</h5>
 <ul>
-<li>30% faster processing</li>
-<li>25% better engagement</li>
-<li>20% lower abandonment</li>
+<li>🔸 Python & TensorFlow</li>
+<li>🔸 NLP & ML Pipelines</li>
+<li>🔸 Data Analysis Tools</li>
+<li>🔸 Automation Scripts</li>
 </ul>
-<p><em>Tech: Tableau, AI, UX</em></p>
-</td>
-<td width="33%">
-<h4>🏘️ <a href="https://www.jcrbuilders.in">JCR Builders</a></h4>
-<img src="https://via.placeholder.com/300x200/e74c3c/ffffff?text=Real+Estate" alt="Real Estate"/>
-<ul>
-<li>50% faster development</li>
-<li>95% uptime reliability</li>
-<li>150% traffic increase</li>
-</ul>
-<p><em>Tech: ReactJS, ChatGPT, SEO</em></p>
 </td>
 </tr>
 </table>
 
+#### Research & Development | Findem, Inc. | Bengaluru
+*Jul 2023 - Dec 2023*
+
+```mermaid
+pie title Project Success Metrics
+    "Model Accuracy" : 98
+    "Prediction Improvement" : 25
+    "Process Automation" : 35
+```
+
+<table>
+<tr>
+<td width="50%">
+<h5>🎯 Key Achievements</h5>
+<ul>
+<li>🔹 Data annotation (98% accuracy)</li>
+<li>🔹 Email classification (25% ↑)</li>
+<li>🔹 Automated validation tools</li>
+<li>🔹 Complex data processing</li>
+</ul>
+</td>
+<td width="50%">
+<h5>💻 Technologies</h5>
+<ul>
+<li>🔸 Python & ML Libraries</li>
+<li>🔸 Data Processing Tools</li>
+<li>🔸 Validation Frameworks</li>
+<li>🔸 Analytics Platforms</li>
+</ul>
+</td>
+</tr>
+</table>
+
+```mermaid
+quadrantChart
+    title Skills Growth & Impact
+    x-axis Low Impact --> High Impact
+    y-axis New Skills --> Mastered Skills
+    quadrant-1 Developing
+    quadrant-2 Excelling
+    quadrant-3 Supporting
+    quadrant-4 Leading
+    "AI Tools": [0.8, 0.7]
+    "NLP": [0.9, 0.8]
+    "Data Processing": [0.7, 0.9]
+    "Automation": [0.8, 0.8]
+    "Python": [0.9, 0.9]
+    "ML Models": [0.8, 0.7]
+```
+
 ---
+
+### 🚀 Projects & Impact
+
+```mermaid
+timeline
+    title Project Timeline 2023-2025
+    2023 : Findem R&D : Data Processing & ML
+    2024 : Traffic Analysis : Python & Analytics
+         : Loan Wise : AI & UX
+    2025 : JCR Builders : React & SEO
+         : Portfolio : AI & Three.js
+```
+
+<table>
+<tr>
+<td width="50%">
+<h4>🔍 <a href="https://github.com/saisrinivas194/Traffic-analysis-tool-">Traffic Analysis Tool</a></h4>
+
+```mermaid
+pie title "Performance Metrics"
+    "Request Monitoring" : 40
+    "Latency Reduction" : 15
+    "Security" : 25
+    "Real-time Analysis" : 20
+```
+
+- 🔹 10,000+ daily requests monitored
+- 🔹 15% latency reduction
+- 🔹 5+ endpoints secured
+<p><em>Tech: Python, Data Analysis</em></p>
+</td>
+<td width="50%">
+<h4>🏦 <a href="https://loanwise.sg">Loan Wise</a></h4>
+
+```mermaid
+pie title "Optimization Results"
+    "Processing Speed" : 30
+    "User Engagement" : 25
+    "Form Completion" : 20
+    "Risk Analysis" : 25
+```
+
+- 🔹 30% faster processing
+- 🔹 25% better engagement
+- 🔹 20% lower abandonment
+<p><em>Tech: Tableau, AI, UX</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>🏘️ <a href="https://www.jcrbuilders.in">JCR Builders</a></h4>
+
+```mermaid
+pie title "Development Metrics"
+    "Dev Speed" : 50
+    "Uptime" : 25
+    "Traffic Growth" : 15
+    "SEO Impact" : 10
+```
+
+- 🔹 50% faster development
+- 🔹 95% uptime reliability
+- 🔹 150% traffic increase
+<p><em>Tech: ReactJS, ChatGPT, SEO</em></p>
+</td>
+<td width="50%">
+<h4>🎨 <a href="https://pedhapollasaisrinivas.site">Portfolio Website</a></h4>
+
+```mermaid
+pie title "AI Integration"
+    "Design System" : 35
+    "UI Patterns" : 25
+    "Visualization" : 25
+    "Performance" : 15
+```
+
+- 🔹 AI-assisted design system
+- 🔹 Modern UI/UX patterns
+- 🔹 Interactive visualizations
+<p><em>Tech: React, AI, Three.js</em></p>
+</td>
+</tr>
+</table>
+
+### 🛠️ Skills & Technologies
+
+<div align="center">
+
+<!-- Programming Languages -->
+<div style="margin: 20px 0;">
+    <h4>Programming Languages</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+</div>
+
+<!-- AI & ML -->
+<div style="margin: 20px 0;">
+    <h4>AI & Machine Learning</h4>
+    <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Scikit_Learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+</div>
+
+<!-- Web Development -->
+<div style="margin: 20px 0;">
+    <h4>Web Development</h4>
+    <a href="#"><img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS3-Proficient-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+</div>
+
+<!-- Tools & Platforms -->
+<div style="margin: 20px 0;">
+    <h4>Tools & Platforms</h4>
+    <a href="#"><img src="https://img.shields.io/badge/AWS-Basic-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Docker-Basic-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+</div>
+
+</div>
 
 ### 🌐 Languages
 
-| Language | Proficiency |
-|----------|------------|
-| English | Professional |
-| Telugu | Native |
-| Hindi | Professional |
-| Tamil | Basic |
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge"/>
+<br/>
+<small>Professional Working</small>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Telugu-Native-green?style=for-the-badge"/>
+<br/>
+<small>Native Speaker</small>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Hindi-Professional-blue?style=for-the-badge"/>
+<br/>
+<small>Professional Working</small>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Tamil-Basic-orange?style=for-the-badge"/>
+<br/>
+<small>Basic Understanding</small>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
