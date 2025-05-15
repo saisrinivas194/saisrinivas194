@@ -39,18 +39,21 @@ graph TB
     classDef currentNode fill:#f9f,stroke:#333,stroke-width:2px;
     classDef completedNode fill:#bfb,stroke:#333,stroke-width:2px;
     classDef futureNode fill:#bbf,stroke:#333,stroke-width:2px;
+    classDef courseNode fill:#ffd700,stroke:#333,stroke-width:2px;
+    classDef upcomingNode fill:#87ceeb,stroke:#333,stroke-width:2px;
+    classDef advancedNode fill:#98fb98,stroke:#333,stroke-width:2px;
 
     subgraph 2024-2025
     A[Masters in Data Science]:::currentNode
     A --> B[NJIT]
     B --> C[GPA: 3.313/4.0]
     B --> D[Current Focus]
-    D --> E[Machine Learning]
-    D --> F[Deep Learning]
-    D --> G[NLP & Vision]
+    D --> E[Machine Learning]:::courseNode
+    D --> F[Deep Learning]:::courseNode
+    D --> G[NLP & Vision]:::courseNode
     B --> H[Upcoming]
-    H --> I[Big Data]
-    H --> J[Research]
+    H --> I[Big Data]:::upcomingNode
+    H --> J[Research]:::upcomingNode
     end
 
     subgraph 2019-2023
@@ -58,13 +61,13 @@ graph TB
     K --> L[SCSVMV]
     L --> M[GPA: 9.43/10.0]
     L --> N[Core Studies]
-    N --> O[Programming]
-    N --> P[Data Structures]
-    N --> Q[Algorithms]
+    N --> O[Programming]:::courseNode
+    N --> P[Data Structures]:::courseNode
+    N --> Q[Algorithms]:::courseNode
     L --> R[Advanced]
-    R --> S[OS & Networks]
-    R --> T[Databases]
-    R --> U[Web Tech]
+    R --> S[OS & Networks]:::advancedNode
+    R --> T[Databases]:::advancedNode
+    R --> U[Web Tech]:::advancedNode
     end
 ```
 
