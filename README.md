@@ -1,14 +1,16 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://github.com/saisrinivas194" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/saisrinivas194/saisrinivas194/main/assets/banner-ai.gif" alt="Data Scientist | AI Developer | Analyst | Data Engineer | AI Prompting | Prompt Engineering" width="100%" />
+    <img src="https://raw.githubusercontent.com/saisrinivas194/saisrinivas194/main/assets/banner-ai.gif" alt="Data Scientist | AI Developer | Analyst | Data Engineer | AI Prompting | Prompt Engineering | Data Annotation | Bussiness Analyst" width="100%" />
   </a>
 </p>
 
-<h1 align="center">Sai Srinivas Pedhapolla</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&pause=1000&color=00B4AB&center=true&vCenter=true&repeat=false&width=435&height=60&lines=Sai+Srinivas+Pedhapolla" alt="Name" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;AI+Developer;AI+Prompting;Prompt+Engineering;Analyst;Data+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;AI+Developer;AI+Prompting;Prompt+Engineering;Analyst;Data+Engineer;Data+Annotation;Bussiness+Analyst" alt="Typing SVG" />
 </div>
 
 <div align="center">
