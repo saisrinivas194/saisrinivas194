@@ -86,7 +86,7 @@
     <div style="background: linear-gradient(to right, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px; margin: 15px 0;">
       <h4>
         <img src="https://img.shields.io/badge/Webdaddy-R&D_Intern-FF6B6B?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Aug_2024_--_Feb_2025-Singapore_(Remote)-00B4AB?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Aug_2023_--_Feb_2024-Singapore_(Remote)-00B4AB?style=for-the-badge"/>
       </h4>
       <ul align="left">
         <li>🔹 Developed AI-powered data annotation tools, improving efficiency by 35%</li>
@@ -118,10 +118,10 @@
     <!-- AI Real Estate -->
     <div style="background: linear-gradient(to right, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px; margin: 15px 0;">
       <h4>
-        <a href="https://www.jcrbuilders.in/" target="_blank">
+        <a href="https://www.jcrbuilders.in/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/JCR_Builders-AI_Real_Estate-FF6B6B?style=for-the-badge"/>
         </a>
-        <img src="https://img.shields.io/badge/ReactJS_|_NextJS_|_ChatGPT-Nov_2024_--_Jan_2025-2ea44f?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/ReactJS_|_NextJS_|_ChatGPT-Nov_2023_--_Jan_2024-2ea44f?style=for-the-badge"/>
       </h4>
       <ul align="left">
         <li>🚀 Built responsive website using AI-generated code & SEO best practices</li>
@@ -134,10 +134,10 @@
     <!-- Traffic Analysis -->
     <div style="background: linear-gradient(to right, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px; margin: 15px 0;">
       <h4>
-        <a href="https://github.com/saisrinivas194/Traffic-analysis-tool-" target="_blank">
+        <a href="https://github.com/saisrinivas194/Traffic-analysis-tool-" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Traffic_Analysis-HTTP/HTTPS_Monitor-00B4AB?style=for-the-badge"/>
         </a>
-        <img src="https://img.shields.io/badge/Python_|_Analytics-Oct_2024_--_Dec_2024-00B4AB?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Python_|_Analytics-Oct_2023_--_Dec_2023-00B4AB?style=for-the-badge"/>
       </h4>
       <ul align="left">
         <li>📊 Analyzed 10,000+ daily requests for traffic patterns</li>
@@ -150,10 +150,10 @@
     <!-- Loan Wise -->
     <div style="background: linear-gradient(to right, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px; margin: 15px 0;">
       <h4>
-        <a href="https://loanwise.sg" target="_blank">
+        <a href="https://loanwise.sg" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Loan_Wise-FinTech_Platform-4C51BF?style=for-the-badge"/>
         </a>
-        <img src="https://img.shields.io/badge/React_|_Node_|_Tableau-Aug_2024_--_Oct_2024-4C51BF?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/React_|_Node_|_Tableau-Aug_2023_--_Oct_2023-4C51BF?style=for-the-badge"/>
       </h4>
       <ul align="left">
         <li>💡 Cut loan processing time by 30% through R&D</li>
@@ -225,20 +225,23 @@
   <div style="margin-bottom: 20px;">
     <h3>🔗 Let's Connect</h3>
     <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-      <a href="tel:+12017059891">
+      <a href="tel:+12017059891" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/📞_(201)_705--9891-Contact-FF6B6B?style=for-the-badge"/>
       </a>
-      <a href="mailto:pedhapollasaisrinivas@gmail.com">
+      <a href="mailto:pedhapollasaisrinivas@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/📧_Email-pedhapollasaisrinivas@gmail.com-00B4AB?style=for-the-badge"/>
       </a>
-      <a href="https://www.linkedin.com/in/sai-srinivas-pedhapolla-345959256/">
+      <a href="https://www.linkedin.com/in/sai-srinivas-pedhapolla-345959256/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
       </a>
-      <a href="https://x.com/SaiSrinivas194">
+      <a href="https://x.com/SaiSrinivas194" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
       </a>
-      <a href="https://pedhapollasaisrinivas.site">
+      <a href="https://pedhapollasaisrinivas.site" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-Visit-4C51BF?style=for-the-badge&logo=react"/>
+      </a>
+      <a href="https://github.com/saisrinivas194" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
       </a>
     </div>
   </div>
