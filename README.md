@@ -32,60 +32,99 @@
 
 ---
 
-### 🎓 Education
+### 🎓 Education & Skills Timeline
 
 ```mermaid
-journey
-    title Academic and Learning Journey
-    section SCSVMV University (9.43/10)
-        B.E. in Computer Science: 5: 2019-2023
-        Data Structures & Algorithms: 5
-        Object-Oriented Programming: 4
-        Database Management: 4
-        Computer Networks: 4
-        Operating Systems: 4
-        Web Technologies: 5
-        Python Programming: 5
-        Java Development: 4
-    section NJIT (3.313/4)
-        M.S. in Data Science: 5: 2024-2025
-        Machine Learning: 5
-        Deep Learning: 5
-        AI & Prompt Engineering: 5
-        Web Development: 4
-        Data Visualization: 4
-        Big Data Processing: 4
-        Statistical Analysis: 4
+timeline
+    title Educational Journey & Skills Acquisition
+    section SCSVMV University (9.43/10 GPA)
+        June 2019 : Started B.E. in Computer Science
+                  : Core Programming
+                  : - Python & Java
+                  : - Data Structures
+                  : - OOP Concepts
+        2020     : Software Development
+                  : - Database Systems
+                  : - Web Technologies
+                  : - Computer Networks
+        2021     : Advanced Topics
+                  : - Operating Systems
+                  : - Software Engineering
+                  : - System Design
+        June 2023 : Graduation
+                  : - Final Project
+                  : - Technical Paper
+                  : - Industry Training
+    section NJIT (3.313/4 GPA)
+        Jan 2024 : Started M.S. in Data Science
+                  : Foundation Skills
+                  : - Machine Learning
+                  : - Statistical Analysis
+                  : - Python for Data Science
+        Current  : Advanced Topics
+                  : - Deep Learning
+                  : - NLP & Computer Vision
+                  : - AI & Prompt Engineering
+        May 2025 : Expected Graduation
+                  : - Big Data Processing
+                  : - Research Projects
+                  : - Industry Applications
 ```
 
 <details>
-<summary>📚 Coursework Details</summary>
+<summary>📚 Detailed Course Achievements</summary>
 
 #### NJIT (2024-2025)
-- **Core Data Science**
-  - Advanced Machine Learning Algorithms
-  - Neural Networks & Deep Learning
-  - Big Data Analytics & Processing
-  - Statistical Methods in Data Science
-  
-- **AI & Development**
-  - AI & Prompt Engineering Techniques
-  - Full Stack Development
-  - Data Visualization & Analytics
-  - Cloud Computing & Distributed Systems
+```mermaid
+mindmap
+    root("Data Science Masters")
+        Technical Skills
+            Machine Learning Algorithms
+            Deep Neural Networks
+            Natural Language Processing
+            Computer Vision Applications
+        Data Engineering
+            Big Data Processing
+            Data Pipeline Development
+            Cloud Computing
+        Analytics
+            Statistical Analysis
+            Data Visualization
+            Predictive Modeling
+        Industry Projects
+            Real-time Analytics
+            AI Applications
+            Research Papers
+```
 
 #### SCSVMV (2019-2023)
-- **Computer Science Fundamentals**
-  - Data Structures & Algorithms
-  - Object-Oriented Programming
-  - Database Management Systems
-  - Computer Networks
-  
-- **Development & Tools**
-  - Web Technologies & Frameworks
-  - Python & Java Programming
-  - Software Engineering Principles
-  - Operating Systems
+```mermaid
+mindmap
+    root("Computer Science B.E.")
+        Core Computing
+            Data Structures
+            Algorithms
+            Computer Architecture
+        Software Development
+            Object-Oriented Programming
+            Web Technologies
+            Database Management
+        Systems
+            Operating Systems
+            Computer Networks
+            System Design
+        Projects
+            Technical Papers
+            Industry Training
+            Final Year Project
+```
+
+#### Key Achievements
+- 🏆 Maintained 9.43/10 GPA in undergraduate studies
+- 🎯 Currently maintaining 3.313/4 GPA in graduate studies
+- 📝 Published technical papers during undergraduate
+- 💻 Completed multiple industry-relevant projects
+- 🌟 Specialized in AI and Data Science applications
 
 </details>
 
@@ -275,39 +314,68 @@ pie title "AI Integration"
 
 <div align="center">
 
-<!-- Programming Languages -->
+<!-- Data Science & ML -->
 <div style="margin: 20px 0;">
-    <h4>Programming Languages</h4>
-    <a href="#"><img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+    <h4>Data Science & ML</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Scikit_Learn-Intermediate-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Beginner-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/PyTorch-Beginner-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
 </div>
 
-<!-- AI & ML -->
+<!-- AI & Analytics -->
 <div style="margin: 20px 0;">
-    <h4>AI & Machine Learning</h4>
-    <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Scikit_Learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+    <h4>AI & Analytics</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-Intermediate-0099E5?style=for-the-badge&logo=deeplearning&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/NLP-Intermediate-4479A1?style=for-the-badge&logo=nlp&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Computer_Vision-Beginner-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-Intermediate-FF4B4B?style=for-the-badge&logo=openai&logoColor=white"/></a>
 </div>
 
-<!-- Web Development -->
+<!-- Data Tools -->
+<div style="margin: 20px 0;">
+    <h4>Data Tools</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Statistical_Analysis-Intermediate-40AEF0?style=for-the-badge&logo=statistics&logoColor=white"/></a>
+</div>
+
+<!-- Development -->
 <div style="margin: 20px 0;">
     <h4>Web Development</h4>
-    <a href="#"><img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-Proficient-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/ReactJS-Beginner-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/HTML-Beginner-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS-Beginner-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/API_Integration-Intermediate-009688?style=for-the-badge&logo=api&logoColor=white"/></a>
 </div>
 
-<!-- Tools & Platforms -->
+<!-- AI Development -->
 <div style="margin: 20px 0;">
-    <h4>Tools & Platforms</h4>
-    <a href="#"><img src="https://img.shields.io/badge/AWS-Basic-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Docker-Basic-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+    <h4>AI Development</h4>
+    <a href="#"><img src="https://img.shields.io/badge/ChatGPT-Intermediate-412991?style=for-the-badge&logo=openai&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Dataset_Curation-Intermediate-FF6B6B?style=for-the-badge&logo=database&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Labelling_Tools-Intermediate-00B4AB?style=for-the-badge&logo=label&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Quality_Control-Intermediate-7B61FF?style=for-the-badge&logo=quality&logoColor=white"/></a>
+</div>
+
+<!-- Development Tools -->
+<div style="margin: 20px 0;">
+    <h4>Development Tools</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jupyter-Intermediate-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Google_Colab-Intermediate-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/AWS-Beginner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
 </div>
 
 </div>
+
+```mermaid
+pie title "Skill Distribution"
+    "Intermediate Level" : 70
+    "Beginner Level" : 30
+```
 
 ### 🌐 Languages
 
