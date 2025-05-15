@@ -34,99 +34,88 @@
 
 ### 🎓 Education Journey
 
+```mermaid
+gantt
+    title Academic Timeline
+    dateFormat  YYYY
+    section NJIT (Masters)
+    Data Science Program     :2024, 2025
+    Core ML & Stats         :2024, 2024
+    Advanced AI & NLP       :2024, 2025
+    Research Projects       :2025, 2025
+    section SCSVMV (Bachelors)
+    Computer Science Program :2019, 2023
+    Core Computing          :2019, 2020
+    Advanced Topics         :2021, 2022
+    Industry Training       :2023, 2023
+```
+
+```mermaid
+graph LR
+    subgraph NJIT
+    A[M.S. Data Science] --> B[Core Phase]
+    B --> C[Advanced Phase]
+    B --> D[GPA: 3.313/4.0]
+    C --> E[Specializations]
+    E --> F[Machine Learning]
+    E --> G[Deep Learning]
+    E --> H[NLP & Vision]
+    end
+    
+    subgraph SCSVMV
+    I[B.E. Computer Science] --> J[Foundation]
+    J --> K[Advanced Studies]
+    J --> L[GPA: 9.43/10.0]
+    K --> M[Key Areas]
+    M --> N[Systems]
+    M --> O[Development]
+    M --> P[Databases]
+    end
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style I fill:#bbf,stroke:#333,stroke-width:2px
+    style E fill:#bfb,stroke:#333,stroke-width:2px
+    style M fill:#bfb,stroke:#333,stroke-width:2px
+```
+
 <div align="center">
 
-<div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
-<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/2024--2025-NJIT-00B4AB?style=for-the-badge"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Degree-M.S._Data_Science-00B4AB?style=for-the-badge"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/GPA-3.313/4.0-00B4AB?style=for-the-badge"/>
-    </a>
+<div style="margin: 20px 0;">
+    <h4>🏛️ New Jersey Institute of Technology (2024 - 2025)</h4>
+    <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Degree-M.S._Data_Science-00B4AB?style=for-the-badge"/></a>
+    <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GPA-3.313/4.0-00B4AB?style=for-the-badge"/></a>
+    <br/>
+    <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/></a>
 </div>
 
 <div style="margin: 20px 0;">
-    <h5>📚 Core Courses</h5>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Machine_Learning-In_Progress-yellow?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Statistical_Analysis-Completed-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Deep_Learning-In_Progress-yellow?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/NLP_&_Computer_Vision-In_Progress-yellow?style=flat-square"/>
-    </a>
+    <h4>🎯 Key Courses</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Machine_Learning-In_Progress-yellow?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-In_Progress-yellow?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Statistical_Analysis-Completed-success?style=flat-square"/></a>
+    <br/>
+    <a href="#"><img src="https://img.shields.io/badge/NLP-In_Progress-yellow?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Computer_Vision-In_Progress-yellow?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Big_Data-Upcoming-lightgrey?style=flat-square"/></a>
+</div>
+
+<div style="margin: 40px 0;">
+    <h4>🏛️ SCSVMV University (2019 - 2023)</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-4C51BF?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/GPA-9.43/10.0-4C51BF?style=for-the-badge"/></a>
+    <br/>
+    <a href="#"><img src="https://img.shields.io/badge/Status-Graduated-success?style=flat-square"/></a>
 </div>
 
 <div style="margin: 20px 0;">
-    <h5>🎯 Advanced Topics</h5>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Big_Data_Analytics-Upcoming-lightgrey?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Research_Projects-Upcoming-lightgrey?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Industry_Applications-Upcoming-lightgrey?style=flat-square"/>
-    </a>
-</div>
-</div>
-
-<div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
-<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/2019--2023-SCSVMV-4C51BF?style=for-the-badge"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-4C51BF?style=for-the-badge"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/GPA-9.43/10.0-4C51BF?style=for-the-badge"/>
-    </a>
-</div>
-
-<div style="margin: 20px 0;">
-    <h5>💻 Core Computing</h5>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Programming-Completed-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Data_Structures-Completed-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Algorithms-Completed-success?style=flat-square"/>
-    </a>
-</div>
-
-<div style="margin: 20px 0;">
-    <h5>🔧 Advanced Topics</h5>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Operating_Systems-Completed-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Database_Systems-Completed-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Web_Technologies-Completed-success?style=flat-square"/>
-    </a>
-</div>
-
-<div style="margin: 20px 0;">
-    <h5>🏆 Achievements</h5>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Technical_Papers-Published-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Industry_Training-Completed-success?style=flat-square"/>
-    </a>
-</div>
+    <h4>🎯 Key Courses</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Data_Structures-Completed-success?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Algorithms-Completed-success?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Database_Systems-Completed-success?style=flat-square"/></a>
+    <br/>
+    <a href="#"><img src="https://img.shields.io/badge/Web_Technologies-Completed-success?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Operating_Systems-Completed-success?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/System_Design-Completed-success?style=flat-square"/></a>
 </div>
 
 </div>
@@ -211,77 +200,55 @@ mindmap
 
 ### 💼 Professional Journey
 
-<div align="center">
+```mermaid
+gantt
+    title Career Progression
+    dateFormat  YYYY-MM
+    section Webdaddy
+    R&D Intern (Freelance)  :2024-08, 2025-02
+    AI Development          :2024-08, 2025-02
+    Pipeline Optimization   :2024-09, 2025-02
+    section Findem
+    R&D Developer          :2023-07, 2023-12
+    Data Processing        :2023-07, 2023-12
+    ML Implementation      :2023-08, 2023-12
+```
 
-<div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
-<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/2024--2025-Webdaddy-00B4AB?style=for-the-badge"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Role-R&D_Intern_(Freelance)-00B4AB?style=for-the-badge"/>
-    </a>
-</div>
+```mermaid
+graph TB
+    subgraph Current Role
+    A[Webdaddy] --> B[R&D Intern]
+    B --> C[Key Projects]
+    C --> D[AI/ML Systems]
+    C --> E[Data Pipelines]
+    C --> F[Automation]
+    
+    subgraph Impact
+    D --> G[35% ML Accuracy ↑]
+    E --> H[40% Efficiency ↑]
+    F --> I[25% Coverage ↑]
+    end
+    end
+    
+    subgraph Previous Role
+    J[Findem Inc.] --> K[R&D Developer]
+    K --> L[Focus Areas]
+    L --> M[Data Processing]
+    L --> N[ML Systems]
+    L --> O[Analytics]
+    
+    subgraph Results
+    M --> P[98% Data Quality]
+    N --> Q[25% Accuracy ↑]
+    O --> R[35% Efficiency ↑]
+    end
+    end
 
-<div style="margin: 20px 0;">
-    <h5>🚀 Key Projects</h5>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/AI/ML_Development-In_Progress-yellow?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Data_Pipeline_Optimization-Active-yellow?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Automation_Systems-Ongoing-yellow?style=flat-square"/>
-    </a>
-</div>
-
-<div style="margin: 20px 0;">
-    <h5>📈 Impact</h5>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/ML_Accuracy-35%25_↑-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Pipeline_Efficiency-40%25_↑-success?style=flat-square"/>
-    </a>
-</div>
-</div>
-
-<div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
-<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/2023-Findem,_Inc.-4C51BF?style=for-the-badge"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Role-R&D_Developer-4C51BF?style=for-the-badge"/>
-    </a>
-</div>
-
-<div style="margin: 20px 0;">
-    <h5>🚀 Key Projects</h5>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Data_Processing-Completed-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/ML_Implementation-Completed-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Analytics_Systems-Completed-success?style=flat-square"/>
-    </a>
-</div>
-
-<div style="margin: 20px 0;">
-    <h5>📈 Impact</h5>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Data_Quality-98%25-success?style=flat-square"/>
-    </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Classification_Accuracy-25%25_↑-success?style=flat-square"/>
-    </a>
-</div>
-</div>
-
-</div>
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style J fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bfb,stroke:#333,stroke-width:2px
+    style L fill:#bfb,stroke:#333,stroke-width:2px
+```
 
 ### 🎯 Skill Proficiency Levels
 
@@ -340,6 +307,97 @@ graph LR
     style F fill:#bbf,stroke:#333,stroke-width:2px
     style G fill:#bfb,stroke:#333,stroke-width:2px
     style H fill:#bfb,stroke:#333,stroke-width:2px
+```
+
+### 💼 Professional Experience Details
+
+<div align="center">
+<div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
+<h4>🔬 Research & Development Intern | Webdaddy</h4>
+<p><em>Singapore (Freelance) | Aug 2024 - Feb 2025</em></p>
+
+<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Focus-AI_Development-00B4AB?style=for-the-badge"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Impact-High-00B4AB?style=for-the-badge"/>
+</a>
+</div>
+
+<div style="margin: 20px 0;">
+<h5>🎯 Key Achievements</h5>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/ML_Models-Accuracy_35%25_↑-success?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Data_Pipeline-Efficiency_40%25_↑-success?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Automation-Coverage_25%25_↑-success?style=flat-square"/>
+</a>
+</div>
+
+<div style="margin: 20px 0;">
+<h5>💻 Technical Expertise</h5>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/AI_Development-Advanced-3776AB?style=flat-square&logo=python"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/ML_Pipelines-Expert-FF6F00?style=flat-square&logo=tensorflow"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Data_Processing-Advanced-4479A1?style=flat-square"/>
+</a>
+</div>
+</div>
+
+<div style="margin: 40px 0; padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
+<h4>🔬 Research & Development | Findem, Inc.</h4>
+<p><em>Bengaluru, India | Jul 2023 - Dec 2023</em></p>
+
+<div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Focus-Data_Processing-4C51BF?style=for-the-badge"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Impact-Significant-4C51BF?style=for-the-badge"/>
+</a>
+</div>
+
+<div style="margin: 20px 0;">
+<h5>🎯 Key Achievements</h5>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Data_Quality-Accuracy_98%25-success?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/ML_Classification-Precision_25%25_↑-success?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Process_Efficiency-35%25_↑-success?style=flat-square"/>
+</a>
+</div>
+
+<div style="margin: 20px 0;">
+<h5>💻 Technical Expertise</h5>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Data_Science-Expert-3776AB?style=flat-square&logo=python"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/ML_Algorithms-Advanced-FF6F00?style=flat-square"/>
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Analytics-Expert-00C7B7?style=flat-square"/>
+</a>
+</div>
+</div>
+</div>
+
+```mermaid
+pie title "Impact Distribution"
+    "Technical Innovation" : 40
+    "Process Improvement" : 35
+    "Efficiency Gains" : 25
 ```
 
 ### 🚀 Projects & Impact
