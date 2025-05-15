@@ -1,22 +1,22 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://github.com/saisrinivas194">
+  <a href="https://github.com/saisrinivas194" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/saisrinivas194/saisrinivas194/main/assets/banner-ai.gif" alt="Sai Srinivas Pedhapolla - Data Scientist | AI Developer | Analyst" width="100%" />
   </a>
 </p>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/saisrinivas194">
+  <a href="https://github.com/saisrinivas194" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sai-srinivas-pedhapolla-345959256/">
+  <a href="https://www.linkedin.com/in/sai-srinivas-pedhapolla-345959256/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://pedhapollasaisrinivas.site">
+  <a href="https://pedhapollasaisrinivas.site" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-20C997?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://x.com/SaiSrinivas194">
+  <a href="https://x.com/SaiSrinivas194" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -24,33 +24,65 @@
 <div align="center">
   <h1>🤖 Sai Srinivas Pedhapolla</h1>
   <p align="center">
-    <a href="tel:+12017059891">(201) 705-9891</a> • 
-    <a href="mailto:pedhapollasaisrinivas@gmail.com">pedhapollasaisrinivas@gmail.com</a>
+    <a href="tel:+12017059891" target="_blank" rel="noopener noreferrer">(201) 705-9891</a> • 
+    <a href="mailto:pedhapollasaisrinivas@gmail.com" target="_blank" rel="noopener noreferrer">pedhapollasaisrinivas@gmail.com</a>
   </p>
   <p><em>Data Science graduate (May 2025) specializing in AI-powered web development, data analysis, and R&D. OPT eligible.</em></p>
 </div>
 
 ---
 
-### 🎓 Education Timeline
+### 🎓 Education Journey
 
 ```mermaid
 timeline
-    title Educational Journey
-    section SCSVMV University
-        June 2019 : Started B.E. in Computer Science
-        2020     : Sophomore Year
-        2021     : Junior Year
-        June 2023 : Graduation
-                  : - 9.43/10 GPA
-                  : - Technical Publications
-                  : - Industry Training
-    section NJIT
-        Jan 2024 : Started M.S. in Data Science
-        Current  : Ongoing Studies
-                  : - 3.313/4 GPA
-        May 2025 : Expected Graduation
+    title Academic Timeline
+    section Higher Education
+        2024 : New Jersey Institute of Technology
+        2023 : SCSVMV University
 ```
+
+<div align="center">
+
+<div style="margin: 20px 0;">
+    <h4>🏛️ New Jersey Institute of Technology (2024 - 2025)</h4>
+    <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Degree-M.S._Data_Science-00B4AB?style=for-the-badge"/></a>
+    <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GPA-3.313/4.0-00B4AB?style=for-the-badge"/></a>
+    <br/>
+    <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/></a>
+</div>
+
+<div style="margin: 20px 0;">
+    <h4>🎯 Key Courses</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Machine_Learning-In_Progress-yellow?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-In_Progress-yellow?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Statistical_Analysis-Completed-success?style=flat-square"/></a>
+    <br/>
+    <a href="#"><img src="https://img.shields.io/badge/NLP-In_Progress-yellow?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Computer_Vision-In_Progress-yellow?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Big_Data-Upcoming-lightgrey?style=flat-square"/></a>
+</div>
+
+<div style="margin: 40px 0;">
+    <h4>🏛️ SCSVMV University (2019 - 2023)</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-4C51BF?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/GPA-9.43/10.0-4C51BF?style=for-the-badge"/></a>
+    <br/>
+    <a href="#"><img src="https://img.shields.io/badge/Status-Graduated-success?style=flat-square"/></a>
+</div>
+
+<div style="margin: 20px 0;">
+    <h4>🎯 Key Courses</h4>
+    <a href="#"><img src="https://img.shields.io/badge/Data_Structures-Completed-success?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Algorithms-Completed-success?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Database_Systems-Completed-success?style=flat-square"/></a>
+    <br/>
+    <a href="#"><img src="https://img.shields.io/badge/Web_Technologies-Completed-success?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Operating_Systems-Completed-success?style=flat-square"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/System_Design-Completed-success?style=flat-square"/></a>
+</div>
+
+</div>
 
 ### 🔄 Skills Progression Flow
 
@@ -73,52 +105,52 @@ graph LR
     style I fill:#bfb,stroke:#333,stroke-width:2px
 ```
 
-<details>
-<summary>📚 Detailed Course Achievements</summary>
+### 📚 Detailed Course Achievements
 
 #### NJIT (2024-2025)
 ```mermaid
 mindmap
     root("Data Science Masters")
         Technical Skills
-            Machine Learning Algorithms
-            Deep Neural Networks
-            Natural Language Processing
-            Computer Vision Applications
+            Machine Learning Algorithms ⏳
+            Deep Neural Networks ⏳
+            Natural Language Processing ⏳
+            Computer Vision Applications ⏳
         Data Engineering
-            Big Data Processing
-            Data Pipeline Development
-            Cloud Computing
+            Big Data Processing ⏳
+            Data Pipeline Development ⏳
+            Cloud Computing ⏳
         Analytics
-            Statistical Analysis
-            Data Visualization
-            Predictive Modeling
+            Statistical Analysis ✓
+            Data Visualization ✓
+            Predictive Modeling ⏳
         Industry Projects
-            Real-time Analytics
-            AI Applications
-            Research Papers
+            Real-time Analytics ⏳
+            AI Applications ⏳
+            Research Papers ⏳
 ```
+*Legend: ⏳ In Progress | ✓ Completed*
 
 #### SCSVMV (2019-2023)
 ```mermaid
 mindmap
     root("Computer Science B.E.")
         Core Computing
-            Data Structures
-            Algorithms
-            Computer Architecture
+            Data Structures ✓
+            Algorithms ✓
+            Computer Architecture ✓
         Software Development
-            Object-Oriented Programming
-            Web Technologies
-            Database Management
+            Object-Oriented Programming ✓
+            Web Technologies ✓
+            Database Management ✓
         Systems
-            Operating Systems
-            Computer Networks
-            System Design
+            Operating Systems ✓
+            Computer Networks ✓
+            System Design ✓
         Projects
-            Technical Papers
-            Industry Training
-            Final Year Project
+            Technical Papers ✓
+            Industry Training ✓
+            Final Year Project ✓
 ```
 
 #### Key Achievements
@@ -127,8 +159,6 @@ mindmap
 - 📝 Published technical papers during undergraduate
 - 💻 Completed multiple industry-relevant projects
 - 🌟 Specialized in AI and Data Science applications
-
-</details>
 
 ---
 
@@ -413,16 +443,16 @@ pie title "Skill Distribution"
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:pedhapollasaisrinivas@gmail.com">
+  <a href="mailto:pedhapollasaisrinivas@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://pedhapollasaisrinivas.site">
+  <a href="https://pedhapollasaisrinivas.site" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sai-srinivas-pedhapolla-345959256/">
+  <a href="https://www.linkedin.com/in/sai-srinivas-pedhapolla-345959256/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/SaiSrinivas194">
+  <a href="https://x.com/SaiSrinivas194" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
