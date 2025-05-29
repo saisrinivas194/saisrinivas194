@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Sai+Srinivas+Pedhapolla" alt="Sai Srinivas Pedhapolla"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=4000&pause=1000&color=#FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Sai+Srinivas+Pedhapolla" alt="Sai Srinivas Pedhapolla"/>
   </h1>
 </div>
 
