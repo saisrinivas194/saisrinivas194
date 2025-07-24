@@ -62,16 +62,16 @@
       <td align="center">
         <img src="https://img.shields.io/badge/NJIT-M.S._Data_Science-00B4AB?style=for-the-badge"/>
         <br/>
-        <img src="https://img.shields.io/badge/GPA-3.313/4.0-00B4AB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/GPA-3.35/4.0-00B4AB?style=flat-square"/>
         <br/>
         <img src="https://img.shields.io/badge/2023_--_2025-New_Jersey_Institute_of_Technology-00B4AB?style=flat-square"/>
         <br/>
         <small>Key Courses: Machine Learning, Deep Learning, Data Mining, Big Data</small>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/JNTUH-B.Tech_Computer_Science-FF6B6B?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/SCSVMV-B.Tech_Computer_Science-FF6B6B?style=for-the-badge"/>
         <br/>
-        <img src="https://img.shields.io/badge/GPA-3.5/4.0-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/GPA-9.4/10.0-FF6B6B?style=flat-square"/>
         <br/>
         <img src="https://img.shields.io/badge/2019_--_2023-JNTU_Hyderabad-FF6B6B?style=flat-square"/>
         <br/>
