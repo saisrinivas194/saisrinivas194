@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/📞_(201)_705--9891-black?style=for-the-badge"/>
     </a>
     <a href="mailto:saisrinivaspedhapolla@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📧_Email-pedhapollasaisrinivas@gmail.com-black?style=for-the-badge&logo=gmail"/>
+      <img src="https://img.shields.io/badge/📧_Email-saisrinivaspedhapolla@gmail.com-black?style=for-the-badge&logo=gmail"/>
     </a>
   </p>
 </div>
