@@ -36,13 +36,24 @@
 `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`, `PyTorch`, `Statsmodels`
 
 **Visualization & Reporting**:  
-`Tableau`, `Power BI`, `Matplotlib`, `Seaborn`, `Plotly Dash`
+`Tableau`, `Power BI`, `Matplotlib`, `Seaborn`, `Plotly Dash`, `Looker`
 
 **Data Engineering & Cloud**:  
 `AWS`, `GCP`, `ETL Pipelines`, `APIs`, `Git`, `Docker`, `Bash`
 
 **AI Domains**:  
 `Prompt Engineering`, `LLMs`, `NLP`, `Data Annotation`, `Forecasting`
+
+---
+
+### 📊 Data Visualization Skills
+
+📌 **Business Dashboards**: Tableau, Power BI  
+📌 **Interactive Web Dashboards**: Plotly Dash, Streamlit  
+📌 **Data Storytelling & Reports**: PowerPoint automation, KPI presentations  
+📌 **Custom Charts & Graphs**: Seaborn, Matplotlib, Plotly (advanced use)  
+📌 **Real-Time Visualizations**: Traffic data, risk monitoring, financial trends  
+📌 **Design Mindset**: Clean, responsive, stakeholder-focused
 
 ---
 
@@ -96,7 +107,7 @@ _Jul 2023 – Dec 2023_
   <img src="https://img.shields.io/badge/EDA-Hypothesis_Testing-informational?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ML-Forecasting_%26_Modeling-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Dashboards-Tableau_%7C_Dash-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-%7C_Prompt_Engineering-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visualization-Real_Time_%26_Static-red?style=for-the-badge"/>
 </p>
 
 ---
