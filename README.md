@@ -104,7 +104,7 @@
   <div align="center">
     <h4>
       <img src="https://img.shields.io/badge/Findem,_Inc.-R&D_Developer-4C51BF?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Jul_2023_--_Dec_2023-Bengaluru-4C51BF?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/May_2022_--_Dec_2023-Bengaluru-4C51BF?style=for-the-badge"/>
     </h4>
   </div>
 
