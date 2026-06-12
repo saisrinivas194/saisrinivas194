@@ -200,16 +200,6 @@ data_engineer = {
 
 ---
 
-## 🏅 Certifications
-
-<div align="center">
-
-[![AWS CCP](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
