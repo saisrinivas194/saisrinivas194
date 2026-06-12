@@ -1,297 +1,222 @@
-<!-- Banner -->
-<p align="center">
-  <a href="https://github.com/saisrinivas194" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/saisrinivas194/saisrinivas194/main/assets/banner-ai.gif" alt="Data Scientist | AI Developer | Analyst | Data Engineer | AI Prompting | Prompt Engineering | Data Annotation | Bussiness Analyst" width="100%" />
-  </a>
-</p>
-
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Sai+Srinivas+Pedhapolla" alt="Sai Srinivas Pedhapolla"/>
-  </h1>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;AI+Developer;AI+Prompting;Prompt+Engineering;Analyst;Data+Engineer;Data+Annotation;Bussiness+Analyst" alt="Typing SVG" />
-</div>
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sai%20Srinivas%20Pedhapolla&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI-Enabled%20Pipelines%20%7C%20Cloud%20Architecture&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<div align="center">
-  <p>
-    <a href="tel:+12017059891" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📞_(201)_705--9891-black?style=for-the-badge"/>
-    </a>
-    <a href="mailto:saisrinivaspedhapolla@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📧_Email-saisrinivaspedhapolla@gmail.com-black?style=for-the-badge&logo=gmail"/>
-    </a>
-  </p>
-</div>
+<!-- Profile badges row -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisrinivas-data-analyst/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisrinivaspedhapolla@gmail.com)
+[![AWS](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/United%20States-🇺🇸-blue?style=for-the-badge)](#)
 
-<div align="center">
-  <a href="https://github.com/saisrinivas194" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sai-srinivas-pedhapolla-345959256/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://pedhapollasaisrinivas.site" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-20C997?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://x.com/SaiSrinivas194" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+<br/>
 
-<div align="center">
-  <h3>💫 About Me</h3>
-  <p>Data Science graduate (May 2025) specializing in AI-powered web development, data analysis, and R&D. OPT eligible.</p>
-  
-  <img src="https://github-stats-alpha.vercel.app/api?username=saisrinivas194&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
-</div>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+ETL+Pipelines+%F0%9F%9A%80;Designing+Cloud-Native+Data+Architectures+%E2%98%81%EF%B8%8F;Engineering+AI-Enabled+Data+Workflows+%F0%9F%A4%96;Transforming+Raw+Data+into+Business+Value+%F0%9F%93%8A)](https://git.io/typing-svg)
 
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nodejs,mongodb,mysql,aws" alt="Skills" />
-</div>
-
-### 🎓 Education
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/NJIT-M.S._Data_Science-00B4AB?style=for-the-badge"/>
-        <br/>
-        <img src="https://img.shields.io/badge/GPA-3.35/4.0-00B4AB?style=flat-square"/>
-        <br/>
-        <img src="https://img.shields.io/badge/2023_--_2025-New_Jersey_Institute_of_Technology-00B4AB?style=flat-square"/>
-        <br/>
-        <small>Key Courses: Machine Learning, Deep Learning, Data Mining, Big Data</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/SCSVMV-B.Tech_Computer_Science-FF6B6B?style=for-the-badge"/>
-        <br/>
-        <img src="https://img.shields.io/badge/GPA-9.4/10.0-FF6B6B?style=flat-square"/>
-        <br/>
-        <img src="https://img.shields.io/badge/2019_--_2023-JNTU_Hyderabad-FF6B6B?style=flat-square"/>
-        <br/>
-        <small>Focus: AI, Data Structures, Algorithms</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🚀 Projects & Experience
-
-<div align="center">
-  <!-- Professional Experience -->
-  <h3>💼 Professional Experience</h3>
-  
-  <!-- Current Role -->
-  <div align="center">
-    <h4>
-      <img src="https://img.shields.io/badge/Webdaddy-R&D_Intern-FF6B6B?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Aug_2023_--_Feb_2024-Singapore_(Remote)-00B4AB?style=for-the-badge"/>
-    </h4>
-  </div>
-
-🔹 Developed AI-powered data annotation tools, improving efficiency by 35%
-🔹 Built ML models for text classification using TensorFlow
-🔹 Automated data pipelines, reducing manual effort by 40%
-🔹 Conducted EDA to improve model accuracy
-
-  <!-- Previous Role -->
-  <div align="center">
-    <h4>
-      <img src="https://img.shields.io/badge/Findem,_Inc.-R&D_Developer-4C51BF?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/May_2022_--_Dec_2023-Bengaluru-4C51BF?style=for-the-badge"/>
-    </h4>
-  </div>
-
-🔹 Managed data annotation projects with 98% accuracy
-🔹 Developed Python scripts for complex data analysis
-🔹 Improved email classification accuracy by 25%
-🔹 Created automated data validation tools
-
-  <!-- Featured Projects -->
-  <h3 align="center">🌟 Featured Projects</h3>
-  
-  <!-- AI Real Estate -->
-  <div align="center">
-    <h4>
-      <a href="https://www.jcrbuilders.in/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/JCR_Builders-AI_Real_Estate-FF6B6B?style=for-the-badge"/>
-      </a>
-      <img src="https://img.shields.io/badge/ReactJS_|_NextJS_|_ChatGPT-Nov_2023_--_Jan_2024-2ea44f?style=for-the-badge"/>
-    </h4>
-  </div>
-
-🔹 Built responsive website using AI-generated code & SEO best practices
-🔹 50% faster development through AI-assisted programming
-🔹 Integrated Google Maps API, boosting local traffic by 150%
-🔹 Achieved 95% uptime reliability
-
-  <!-- Traffic Analysis -->
-  <div align="center">
-    <h4>
-      <a href="https://github.com/saisrinivas194/Traffic-analysis-tool-" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Traffic_Analysis-HTTP/HTTPS_Monitor-00B4AB?style=for-the-badge"/>
-      </a>
-      <img src="https://img.shields.io/badge/Python_|_Analytics-Oct_2023_--_Dec_2023-00B4AB?style=for-the-badge"/>
-    </h4>
-  </div>
-
-🔹 Analyzed 10,000+ daily requests for traffic patterns
-🔹 Reduced latency by 15% through protocol optimization
-🔹 Enhanced security across 5+ critical endpoints
-🔹 Built real-time diagnostic dashboards
-
-  <!-- Loan Wise -->
-  <div align="center">
-    <h4>
-      <a href="https://loanwise.sg" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Loan_Wise-FinTech_Platform-4C51BF?style=for-the-badge"/>
-      </a>
-      <img src="https://img.shields.io/badge/React_|_Node_|_Tableau-Aug_2023_--_Oct_2023-4C51BF?style=for-the-badge"/>
-    </h4>
-  </div>
-
-🔹 Cut loan processing time by 30% through R&D
-🔹 Boosted user engagement by 25% with AI content
-🔹 Reduced form abandonment by 20%
-🔹 Created risk assessment dashboards
-
-  <!-- Data Science Projects -->
-  <h3>🤖 Data Science Portfolio</h3>
-  <p align="center">
-    <a href="https://github.com/saisrinivas194/Netflix-Movies-and-TV-shows-analysis" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=Netflix-Movies-and-TV-shows-analysis&theme=dark&hide_border=true" />
-    </a>
-    <a href="https://github.com/saisrinivas194/Customer-Personality-Analysis-" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisrinivas194&repo=Customer-Personality-Analysis-&theme=dark&hide_border=true" />
-    </a>
-  </p>
-
-  <!-- Skills -->
-  <h3>🛠️ Technical Skills</h3>
-  
-  <!-- Programming & Data Science -->
-  <h4>💻 Programming & Data Science</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python"/>
-    <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=flat-square&logo=pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-Advanced-013243?style=flat-square&logo=numpy"/>
-    <img src="https://img.shields.io/badge/scikit--learn-Advanced-F7931E?style=flat-square&logo=scikit-learn"/>
-    <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat-square&logo=tensorflow"/>
-    <img src="https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat-square&logo=pytorch"/>
-  </p>
-
-  <!-- AI & ML -->
-  <h4>🤖 AI & Machine Learning</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Deep_Learning-Advanced-FF6F00?style=flat-square"/>
-    <img src="https://img.shields.io/badge/NLP-Advanced-4B8BBE?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Computer_Vision-Intermediate-76B900?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-FF4B4B?style=flat-square"/>
-  </p>
-
-  <!-- Web Development -->
-  <h4>🌐 Web Development</h4>
-  <p>
-    <img src="https://img.shields.io/badge/ReactJS-Advanced-61DAFB?style=flat-square&logo=react"/>
-    <img src="https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat-square&logo=html5"/>
-    <img src="https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3"/>
-    <img src="https://img.shields.io/badge/API_Integration-Expert-009688?style=flat-square"/>
-  </p>
-
-  <!-- Tools & Cloud -->
-  <h4>🛠️ Tools & Cloud</h4>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-Basic-232F3E?style=flat-square&logo=amazon-aws"/>
-    <img src="https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git"/>
-    <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?style=flat-square&logo=tableau"/>
-    <img src="https://img.shields.io/badge/Docker-Basic-2496ED?style=flat-square&logo=docker"/>
-  </p>
-
-  <!-- Connect -->
-  <h3>🔗 Let's Connect</h3>
-  <p>
-    <a href="tel:+12017059891" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📞_(201)_705--9891-Contact-FF6B6B?style=for-the-badge"/>
-    </a>
-    <a href="mailto:pedhapollasaisrinivas@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📧_Email-pedhapollasaisrinivas@gmail.com-00B4AB?style=for-the-badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sai-srinivas-pedhapolla-345959256/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-    </a>
-    <a href="https://x.com/SaiSrinivas194" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
-    </a>
-    <a href="https://pedhapollasaisrinivas.site" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-4C51BF?style=for-the-badge&logo=react"/>
-    </a>
-    <a href="https://github.com/saisrinivas194" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </p>
 </div>
 
 ---
 
-<div align="center">
-  <i>OPT Eligible • Data Science Graduate (May 2025)</i>
-</div>
+## 🧠 About Me
 
-```mermaid
-graph TB
-    classDef default fill:#000000,stroke:#333,stroke-width:2px,color:#ffffff;
-
-    subgraph Current Projects
-    A[AI Systems] --> B[ML Models]
-    A --> C[Data Pipelines]
-    B --> D[35% Accuracy ↑]
-    C --> E[40% Efficiency ↑]
-    end
+```python
+data_engineer = {
+    "name"        : "Sai Srinivas Pedhapolla",
+    "experience"  : "2+ years",
+    "focus"       : ["ETL Pipelines", "Cloud Architecture", "AI-Enabled Data Systems"],
+    "stack"       : ["Python", "PySpark", "SQL", "AWS", "Databricks"],
+    "cloud"       : "AWS Certified Cloud Practitioner ☁️",
+    "currently"   : "Data Engineering Intern @ Goods Unite Us",
+    "interests"   : ["LLM-Powered Workflows", "RAG Systems", "Agentic AI", "GenAI"],
+    "education"   : "M.S. Data Science — NJIT",
+}
 ```
 
-### 📊 GitHub Activity
+> *"Turning messy, multi-source data into reliable, analytics-ready pipelines — one transformation at a time."*
+
+---
+
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <!-- Contribution Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=saisrinivas194&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saisrinivas194&theme=dark" alt="Contribution Graph" />
-  
-  <!-- Languages Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisrinivas194&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saisrinivas194&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+
+| 🎯 | Achievement |
+|---|---|
+| ☁️ | **AWS Certified Cloud Practitioner** |
+| 🔁 | Architected **end-to-end ETL pipelines** ingesting FEC political donation data via S3 → Parquet at scale |
+| 📊 | Built a **GA4 real-time analytics dashboard** resolving revenue reconciliation across purchases, renewals & refunds |
+| 🔀 | Led **Snowflake → Firebase migration** redesigning relational schemas into document-based architecture |
+| 🤖 | Hands-on with **LLM-powered workflows, RAG systems**, and agentic AI data pipeline concepts |
+| ⚙️ | Automated **CI/CD pipelines** using GitHub Actions + ECS Fargate + EventBridge for production-grade orchestration |
+| 📉 | Reduced manual processing effort through **workflow automation** across batch and recurring data jobs |
+
 </div>
 
-### 📊 Current Stats
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisrinivas194&theme=dark&hide_border=true" />
+
+**Languages & Query**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Cloud & Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Data & Storage**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Apache Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
+
+**Libraries & Tools**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**AI & Emerging**
+
+![OpenAI](https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-00B4AB?style=for-the-badge&logo=semanticscholar&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6366F1?style=for-the-badge&logo=probot&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<details>
+<summary><b>🟢 Software Intern – Data Engineering &nbsp;|&nbsp; Goods Unite Us &nbsp;|&nbsp; Sep 2025 – Present</b></summary>
+
+<br/>
+
+- Built scalable **Python, PySpark, SQL & Databricks** ETL workflows to ingest, transform, and validate structured and semi-structured data
+- Designed reusable transformation logic and schema-aware data models including **Snowflake → Firebase** migration support
+- Worked with REST API-driven, JSON, and Parquet inputs using Python and Pandas for reliable multi-source pipelines
+- Produced **validation checks, monitoring-oriented outputs**, and pipeline health indicators for production reliability
+- Contributed automation workflows that reduced manual effort and improved processing consistency
+
+</details>
+
+<details>
+<summary><b>🔵 Python Developer & R&D Data Specialist &nbsp;|&nbsp; Webdaddy &nbsp;|&nbsp; Aug 2024 – Feb 2025 &nbsp;|&nbsp; Singapore</b></summary>
+
+<br/>
+
+- Developed **Python, SQL, and Pandas**-based ETL workflows from REST APIs and multiple source systems
+- Integrated multi-format data (**XML, JSON, CSV**) with Python transformation logic for scalable pipelines
+- Performed root cause analysis and implemented fixes improving **execution stability and observability**
+- Partnered with stakeholders in Agile environments to align technical solutions with evolving requirements
+
+</details>
+
+<details>
+<summary><b>🟣 R&D Data Analyst &nbsp;|&nbsp; Findem, Inc. &nbsp;|&nbsp; May 2022 – Dec 2023 &nbsp;|&nbsp; California, USA</b></summary>
+
+<br/>
+
+- Performed business data analysis on large datasets using **SQL**, identifying trends for KPI tracking and decision-making
+- Developed dashboard-ready datasets and reporting outputs using **SQL, Excel, and Power BI**
+- Resolved data and reporting issues through validation checks and root cause analysis strengthening data quality and user trust
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 📊 GA4 Analytics Dashboard
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](#)
+[![Google Analytics](https://img.shields.io/badge/GA4_API-E37400?style=flat-square&logo=google-analytics&logoColor=white)](#)
+
+> Real-time interactive analytics dashboard for Google Analytics 4 — built without needing to open the GA4 interface. Resolved revenue reconciliation across purchases, renewals, trial conversions, and refunds.
+
+---
+
+### ❄️ Snowflake → Firebase Migration
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+
+> Schema migration from relational (Snowflake) to document-based (Firebase) architecture. Redesigned data relationships, reduced infrastructure costs, and maintained full application data accessibility.
+
+---
+
+### 🏛️ AWS FEC Political Donation Pipeline
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#)
+
+> End-to-end production ETL ingesting daily FEC filing data → S3 → Parquet. Full AWS stack: IAM · ECR · ECS Fargate · EventBridge · CloudWatch · GitHub Actions CI/CD. Supports incremental loads and multi-year historical backfills.
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saisrinivas-pedhapolla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisrinivas-pedhapolla&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saisrinivas194&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=saisrinivas-pedhapolla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
+---
+
+## 🎓 Education
+
+| Degree | Institution | Field |
+|---|---|---|
+| 🎓 **M.S. Data Science** | New Jersey Institute of Technology, Newark | Data Science |
+| 🎓 **B.Tech Computer Science** | SCSVMV University, Chennai | CS & Engineering |
+
+---
+
+## 🏅 Certifications
+
 <div align="center">
-  <h4>🎯 Current Focus Areas</h4>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/AI-Machine_Learning-FF4B4B?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Data-Processing_&_Analysis-4C51BF?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Research-Development-00B4AB?style=for-the-badge"/></a>
-  </p>
+
+[![AWS CCP](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+
 </div>
 
 ---
 
 <div align="center">
-  <i>"Transforming Data into Intelligence through AI Innovation"</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+**Let's connect and build something remarkable with data.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisrinivas-data-analyst/)
+[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisrinivaspedhapolla@gmail.com)
+
 </div>
