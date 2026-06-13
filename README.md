@@ -1,191 +1,180 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:1a2744,100:0a3d62&height=220&section=header&text=Sai%20Srinivas%20Pedhapolla&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI-Enabled%20Pipelines%20%7C%20Cloud%20Architecture&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Srinivas%20Pedhapolla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20AI-Enabled%20Pipelines%20%7C%20Cloud%20Architecture&descAlignY=55&descSize=16" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+ETL+Pipelines+%F0%9F%9A%80;Designing+Cloud-Native+Data+Architectures+%E2%98%81%EF%B8%8F;Engineering+AI-Enabled+Data+Workflows+%F0%9F%A4%96;Transforming+Raw+Data+into+Business+Value+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisrinivas-data-analyst/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisrinivaspedhapolla@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisrinivas194)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=saisrinivas194&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/saisrinivas194)
+
+<br/>
+
+> *🚀 "Turning messy, multi-source data into reliable, analytics-ready pipelines — one transformation at a time."*
+
 </div>
 
-<table width="100%" border="0">
-<tr>
-<td width="72%" valign="top">
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisrinivas-data-analyst/)
-[![Gmail](https://img.shields.io/badge/✉-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisrinivaspedhapolla@gmail.com)
-[![United States](https://img.shields.io/badge/🇺🇸-United_States-3c3c6e?style=for-the-badge)](#)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=saisrinivas194&color=38bdf8&style=for-the-badge&label=👁️+Profile+Views)
-
-<br/><br/>
-
-> 🚀 &nbsp;*Turning messy, multi-source data into reliable, analytics-ready pipelines — one transformation at a time.*
-
-</td>
-<td width="28%" valign="top">
-
-<br/>
-
-**🎯 Recruiter Snapshot**
-
-🎯 **Looking For**
-Data Engineer / Analytics Engineer
-
-📍 **Location**
-Boston, MA, United States
-
-🛂 **Work Authorization**
-F-1 OPT (STEM Extension Eligible)
-
-📅 **Availability**
-Open to Full-time Opportunities
-
-💼 **Preferred Work**
-On-site / Hybrid / Remote
-
-</td>
-</tr>
-</table>
-
 ---
 
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 About Me
+## 👨‍💻 About Me
 
 ```python
-data_engineer = {
-  "name"      : "Sai Srinivas Pedhapolla",
-  "experience": "2+ years",
-  "focus"     : ["ETL Pipelines",
-                 "Cloud Architecture",
-                 "AI-Enabled Data Systems"],
-  "stack"     : ["Python", "PySpark",
-                 "SQL", "Databricks"],
-  "currently" : "Data Engineering Intern"
-                " @ Goods Unite Us",
-  "interests" : ["LLM-Powered Workflows",
-                 "RAG Systems",
-                 "Agentic AI", "GenAI"],
-  "education" : "M.S. Data Science - NJIT",
-}
+class DataEngineer:
+    name       = "Sai Srinivas Pedhapolla"
+    location   = "Boston, MA, United States 🇺🇸"
+    role       = "Data Engineering Intern @ Goods Unite Us"
+    education  = "M.S. Data Science — NJIT"
+    experience = "2+ years"
+
+    focus = [
+        "Scalable ETL Pipelines",
+        "Cloud-Native Architecture",
+        "AI-Enabled Data Workflows",
+    ]
+
+    stack = {
+        "languages" : ["Python", "SQL", "PySpark", "Spark SQL"],
+        "cloud"     : ["AWS S3", "Glue", "Lambda", "Redshift", "Databricks"],
+        "storage"   : ["Snowflake", "Firebase", "Parquet"],
+        "tools"     : ["Docker", "GitHub Actions", "Streamlit", "Power BI"],
+        "ai"        : ["LLM Workflows", "RAG Systems", "Agentic AI"],
+    }
+
+    currently_learning = ["Lakehouse Architecture", "Spark Optimization", "LLM Orchestration"]
+    open_to            = "Full-time Data / Analytics Engineering Roles"
+    work_auth          = "F-1 OPT — STEM Extension Eligible"
 ```
 
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Key Highlights
-
-🔄 &nbsp;Architected end-to-end ETL pipelines with AWS S3 → Parquet
-
-📊 &nbsp;Built GA4 real-time analytics dashboard for revenue reconciliation
-
-❄️ &nbsp;Led Snowflake → Firebase migration with schema redesign
-
-🤖 &nbsp;Hands-on with LLM-powered workflows, RAG & Agentic AI
-
-⚙️ &nbsp;Automated CI/CD pipelines using GitHub Actions + ECS Fargate
-
-🎯 &nbsp;Reduced manual processing effort across batch & recurring jobs
-
-</td>
-</tr>
-</table>
-
 ---
+
+## 🏆 Achievements at a Glance
 
 <div align="center">
 
-| 🏢 | 🚀 | ☁️ | ⚡ | 🖥️ | 📚 |
+| 🏢 Companies | 🚀 Projects | ☁️ Cloud Services | ⚡ Experience | 💻 Tech Stack | 📚 Always |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **3+** | **5+** | **6+** | **2+** | **10+** | **∞** |
-| Companies Worked | Projects Delivered | Cloud Services | Years Experience | Tech Stack | Learning & Growing |
+| **3+** | **5+** | **6+** | **2+ yrs** | **10+** | **Learning** |
 
 </div>
 
 ---
 
-<table width="100%" border="0">
-<tr>
-<td width="57%" valign="top">
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+<div align="center">
 
-| Category | Technologies |
-|:---|:---|
-| **Languages & Query** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
-| **Cloud & Platforms** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
-| **Data & Storage** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white) ![Apache Parquet](https://img.shields.io/badge/Apache_Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white) |
-| **Libraries & Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| **AI & Emerging** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![RAG Systems](https://img.shields.io/badge/RAG_Systems-00B4AB?style=flat-square&logo=semanticscholar&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6366F1?style=flat-square&logo=probot&logoColor=white) |
+### 🔤 Languages & Query
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-</td>
-<td width="43%" valign="top">
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-### 📅 Experience Timeline
+### 🗄️ Data & Storage
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Apache Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
 
-<br/>
+### 🧰 Libraries & Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-🔵 &nbsp;**Sep 2025 – Present**
-&nbsp;&nbsp;&nbsp;&nbsp; **Software Intern – Data Engineering**
-&nbsp;&nbsp;&nbsp;&nbsp; Goods Unite Us
+### 🤖 AI & Emerging
+![OpenAI](https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-00B4AB?style=for-the-badge&logo=semanticscholar&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6366F1?style=for-the-badge&logo=probot&logoColor=white)
 
-🟢 &nbsp;**2025**
-&nbsp;&nbsp;&nbsp;&nbsp; **M.S. Data Science**
-&nbsp;&nbsp;&nbsp;&nbsp; New Jersey Institute of Technology
-
-🟡 &nbsp;**2024 – 2025**
-&nbsp;&nbsp;&nbsp;&nbsp; **Python Developer & R&D**
-&nbsp;&nbsp;&nbsp;&nbsp; Webdaddy
-
-🔴 &nbsp;**2022 – 2023**
-&nbsp;&nbsp;&nbsp;&nbsp; **R&D Data Analyst**
-&nbsp;&nbsp;&nbsp;&nbsp; Findem
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 💼 Experience
 
-<table width="100%" border="0">
+<details open>
+<summary><b>🟢 &nbsp;Software Intern – Data Engineering &nbsp;·&nbsp; Goods Unite Us &nbsp;·&nbsp; Sep 2025 – Present</b></summary>
+<br/>
+
+- Built scalable **Python, PySpark, SQL & Databricks** ETL workflows ingesting structured and semi-structured data
+- Designed reusable transformation logic and schema-aware data models including **Snowflake → Firebase** migration
+- Worked with REST APIs, JSON, and Parquet inputs using Pandas for reliable multi-source pipelines
+- Produced validation checks and pipeline health indicators improving production reliability
+- Contributed automation workflows reducing manual effort and improving processing consistency
+
+</details>
+
+<details>
+<summary><b>🔵 &nbsp;Python Developer & R&D Data Specialist &nbsp;·&nbsp; Webdaddy &nbsp;·&nbsp; Aug 2024 – Feb 2025 &nbsp;·&nbsp; Singapore</b></summary>
+<br/>
+
+- Developed **Python, SQL, and Pandas**-based ETL workflows ingesting from REST APIs and multiple source systems
+- Integrated multi-format data (**XML, JSON, CSV**) with Python transformation logic for scalable pipelines
+- Performed root cause analysis improving execution stability and observability
+- Partnered with stakeholders in Agile environments to align solutions with evolving requirements
+
+</details>
+
+<details>
+<summary><b>🟣 &nbsp;R&D Data Analyst &nbsp;·&nbsp; Findem, Inc. &nbsp;·&nbsp; May 2022 – Dec 2023 &nbsp;·&nbsp; California, USA</b></summary>
+<br/>
+
+- Performed business data analysis on large datasets using **SQL**, identifying trends for KPI tracking
+- Developed dashboard-ready datasets using **SQL, Excel, and Power BI**
+- Resolved data issues through validation checks and root cause analysis strengthening data quality
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-**📊 GA4 Revenue Reconciliation Dashboard**
+### 📊 GA4 Revenue Dashboard
+Built real-time dashboard reconciling revenue across purchases, renewals & refunds.
 
-Built real-time dashboard to reconcile revenue across purchases, renewals & refunds.
-
-`Google Analytics 4` → `Python` → `Streamlit` → `Dashboard`
+**Flow:** `GA4 API` → `Python` → `Streamlit` → `Dashboard`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![GA4 API](https://img.shields.io/badge/GA4_API-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4_API-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
 
-**❄️ Snowflake → Firebase Migration**
+### ❄️ Snowflake → Firebase Migration
+Redesigned relational schemas and migrated to document-based architecture.
 
-Redesigned relational schemas and migrated data to a document-based architecture.
-
-`Snowflake` → `Python ETL` → `Firebase Firestore`
+**Flow:** `Snowflake` → `Python ETL` → `Firebase Firestore`
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?style=flat-square&logo=json&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
 
-**🏛️ Political Donation ETL Pipeline**
+### 🏛️ FEC Political Donation Pipeline
+Ingested FEC data via S3, transformed with PySpark, stored in Parquet at scale.
 
-Ingested FEC data via S3, transformed with PySpark & stored in Parquet at scale.
-
-`FEC API` → `AWS S3` → `PySpark` → `Parquet` → `Redshift`
+**Flow:** `FEC API` → `S3` → `PySpark` → `Parquet` → `Redshift`
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -198,93 +187,73 @@ Ingested FEC data via S3, transformed with PySpark & stored in Parquet at scale.
 
 <div align="center">
 
-[![🔗 View all repositories →](https://img.shields.io/badge/🔗_View_all_repositories_→-0d1b2a?style=for-the-badge)](https://github.com/saisrinivas194)
+[![View All Repos](https://img.shields.io/badge/🔗_View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisrinivas194?tab=repositories)
 
 </div>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<table width="100%" border="0">
-<tr>
-<td width="30%" valign="top">
+<div align="center">
 
-**📊 GitHub Stats**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saisrinivas194&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisrinivas194&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisrinivas194&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)
+<br/>
 
-</td>
-<td width="27%" valign="top">
+[![GitHub Streak](https://streak-stats.demolab.com?user=saisrinivas194&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-**💬 Most Used Languages**
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisrinivas194&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saisrinivas194&theme=tokyo-night&hide_border=true&area=true)](https://github.com/saisrinivas194)
 
-</td>
-<td width="20%" valign="top">
-
-**🐍 Contribution Snake**
-
-![Snake](https://raw.githubusercontent.com/saisrinivas194/saisrinivas194/output/github-contribution-grid-snake-dark.svg)
-
-🔥 **Keep contributing!**
-
-</td>
-<td width="23%" valign="top">
-
-**📉 Activity Graph**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saisrinivas194&theme=tokyo-night&hide_border=true&area=true)
-
-</td>
-</tr>
-</table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=saisrinivas194&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 ---
 
-<table width="100%" border="0">
+## 🎓 Education
+
+| 🎓 Degree | 🏫 Institution | 📅 Year |
+|:---|:---|:---:|
+| **M.S. Data Science** | New Jersey Institute of Technology, Newark | 2025 |
+| **B.Tech Computer Science & Engineering** | SCSVMV University, Chennai | 2022 |
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+[![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![Databricks](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#)
+[![Snowflake](https://img.shields.io/badge/Snowflake-Hands--On_Training-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-Data_Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🌱 Currently Learning &nbsp;·&nbsp; 🎯 Goals 2025
+
+<table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### 🎯 Current Focus
-
-✅ Mastering Databricks & Spark Optimization
-✅ Building Production-Grade ETL Pipelines
-✅ Exploring Agentic AI for Data Engineering
-✅ Preparing for Mid-Level Data Engineering Roles
-
-</td>
-<td width="25%" valign="top">
-
-### 📜 Certifications
-
-✅ AWS Certified Cloud Practitioner
-✅ Databricks Fundamentals
-✅ Snowflake Hands-On Training
-✅ Python for Data Engineering
+**📚 Currently Learning**
+- ⬜ Advanced Spark Performance Tuning
+- ⬜ Snowflake Optimization Techniques
+- ⬜ Lakehouse Architecture
+- ⬜ Agentic AI & LLM Orchestration
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### 🌱 Currently Learning
-
-⬜ Advanced Spark Performance Tuning
-⬜ Snowflake Optimization Techniques
-⬜ Lakehouse Architecture
-⬜ Agentic AI & LLM Orchestration
-
-</td>
-<td width="25%" valign="top">
-
-### 📬 Let's Connect
-
-📧 saisrinivaspedhapolla@gmail.com
-💼 [linkedin.com/in/saisrinivas-data-analyst](https://www.linkedin.com/in/saisrinivas-data-analyst/)
-🐙 [github.com/saisrinivas194](https://github.com/saisrinivas194)
-📄 [View My Resume](#)
+**🎯 2025 Goals**
+- ✅ Mastering Databricks & Spark Optimization
+- ✅ Building Production-Grade ETL Pipelines
+- ✅ Exploring Agentic AI for Data Engineering
+- ✅ Land Mid-Level Data Engineering Role
 
 </td>
 </tr>
@@ -292,11 +261,22 @@ Ingested FEC data via S3, transformed with PySpark & stored in Parquet at scale.
 
 ---
 
-<table width="100%" border="0">
-<tr>
-<td>⭐ <em>Data is the new oil, but insights are the engine.</em></td>
-<td align="right"><strong>Thanks for visiting! 😊</strong></td>
-</tr>
-</table>
+## 📬 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0d1117&height=100&section=footer" width="100%"/>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisrinivas-data-analyst/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisrinivaspedhapolla@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisrinivas194)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+⭐ *Data is the new oil, but insights are the engine.* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Thanks for visiting! 😊**
+
+</div>
