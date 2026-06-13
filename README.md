@@ -299,7 +299,7 @@ Ingested FEC data via S3, transformed with PySpark, stored in Parquet at scale.
 
 ### 🎓 SCSVMV University
 📍 Chennai, India
-🗓️ `2018 – 2022`
+🗓️ `2019 – 2022`
 
 ![Computer Science](https://img.shields.io/badge/Computer_Science-1a1b27?style=flat-square&color=38bdf8&logoColor=white)
 ![Engineering](https://img.shields.io/badge/Engineering-217346?style=flat-square&logoColor=white)
