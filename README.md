@@ -32,25 +32,10 @@ class DataEngineer_Analyst:
     open_to    = "Data Engineer / Analytics Engineer / Data Analyst Roles"
     work_auth  = "F-1 OPT — STEM Extension Eligible"
 
-    engineering = [
-        "Scalable ETL Pipelines",
-        "Cloud-Native Architecture",
-        "AI-Enabled Data Workflows",
-    ]
-
-    analytics = [
-        "Business Intelligence & Dashboarding",
-        "Statistical Analysis & A/B Testing",
-        "Data Visualization (Power BI, Tableau, Looker)",
-        "KPI Tracking & Reporting",
-    ]
-
-    currently_learning = [
-        "Lakehouse Architecture",
-        "Spark Optimization",
-        "LLM Orchestration",
-        "Advanced Tableau & Looker",
-    ]
+    engineering = ["Scalable ETL Pipelines", "Cloud-Native Architecture", "AI-Enabled Data Workflows"]
+    analytics   = ["Business Intelligence & Dashboarding", "Statistical Analysis & A/B Testing",
+                   "Data Visualization (Power BI, Tableau, Looker)", "KPI Tracking & Reporting"]
+    learning    = ["Lakehouse Architecture", "Spark Optimization", "LLM Orchestration", "Advanced Tableau"]
 ```
 
 ---
@@ -62,7 +47,7 @@ class DataEngineer_Analyst:
 | 🏢 | 🚀 | ☁️ | ⚡ | 📊 | 💻 | 📚 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **3+** | **5+** | **6+** | **2+ yrs** | **10+** | **10+** | **∞** |
-| Companies | Projects | Cloud Services | Experience | Dashboards Built | Tech Stack | Always Learning |
+| Companies | Projects | Cloud Services | Experience | Dashboards | Tech Stack | Always Learning |
 
 </div>
 
@@ -138,52 +123,92 @@ class DataEngineer_Analyst:
 
 ## 💼 Experience
 
-<details open>
-<summary><b>🟢 &nbsp;Software Intern – Data Engineering &nbsp;·&nbsp; Goods Unite Us &nbsp;·&nbsp; Sep 2025 – Present</b></summary>
-<br/>
+<div align="center">
 
-- Built scalable **Python, PySpark, SQL & Databricks** ETL workflows for structured and semi-structured data
-- Designed schema-aware data models including **Snowflake → Firebase** migration
-- Worked with REST APIs, JSON, and Parquet inputs using Pandas for reliable multi-source pipelines
-- Produced validation checks and pipeline health indicators improving production reliability
-- Built analytics-ready datasets enabling downstream **BI and reporting workflows**
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-</details>
+![](https://img.shields.io/badge/Sep_2025_–_Present-1a1b27?style=for-the-badge&color=38bdf8&labelColor=1a1b27)
 
-<details>
-<summary><b>🔵 &nbsp;Python Developer & R&D Data Specialist &nbsp;·&nbsp; Webdaddy &nbsp;·&nbsp; Aug 2024 – Feb 2025 &nbsp;·&nbsp; Singapore</b></summary>
-<br/>
+### 🟢 Goods Unite Us
+**Software Intern – Data Engineering**
+📍 Wisconsin, USA
 
-- Developed **Python, SQL, and Pandas**-based ETL workflows from REST APIs and multiple source systems
-- Integrated multi-format data (**XML, JSON, CSV**) with Python transformation logic
-- Built reporting datasets and performed root cause analysis improving pipeline observability
-- Delivered business insights to stakeholders using structured reporting in Agile environments
+---
 
-</details>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-<details>
-<summary><b>🟣 &nbsp;R&D Data Analyst &nbsp;·&nbsp; Findem, Inc. &nbsp;·&nbsp; May 2022 – Dec 2023 &nbsp;·&nbsp; California, USA</b></summary>
-<br/>
+- ETL pipelines with PySpark & Databricks
+- Snowflake → Firebase schema migration
+- REST API & Parquet-based ingestion
+- Pipeline validation & monitoring
 
-- Performed business data analysis on large datasets using **SQL** for KPI tracking and decision-making
-- Built **Power BI** dashboards and reporting outputs used across teams
-- Conducted **statistical analysis** and trend identification to support product decisions
-- Resolved data quality issues through validation checks and root cause analysis
+</td>
+<td width="33%" valign="top" align="center">
 
-</details>
+![](https://img.shields.io/badge/Aug_2024_–_Feb_2025-1a1b27?style=for-the-badge&color=70a5fd&labelColor=1a1b27)
+
+### 🔵 Webdaddy
+**Python Developer & R&D Specialist**
+📍 Singapore
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+- REST API-driven ETL workflows
+- XML / JSON / CSV integration
+- Pipeline root cause analysis
+- Agile stakeholder reporting
+
+</td>
+<td width="33%" valign="top" align="center">
+
+![](https://img.shields.io/badge/May_2022_–_Dec_2023-1a1b27?style=for-the-badge&color=bf91f3&labelColor=1a1b27)
+
+### 🟣 Findem, Inc.
+**R&D Data Analyst**
+📍 California, USA
+
+---
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+- Business analysis & KPI tracking
+- Power BI dashboards for teams
+- Statistical analysis & trends
+- Data quality validation
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+![](https://img.shields.io/badge/Analytics_Dashboard-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ### 📊 GA4 Revenue Dashboard
-Real-time analytics dashboard reconciling revenue across purchases, renewals & refunds.
+Real-time dashboard reconciling revenue across purchases, renewals & refunds.
 
-**Flow:** `GA4 API` → `Python` → `Streamlit` → `Dashboard`
+`GA4 API` → `Python` → `Streamlit` → `Dashboard`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -191,12 +216,14 @@ Real-time analytics dashboard reconciling revenue across purchases, renewals & r
 ![GA4](https://img.shields.io/badge/GA4_API-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### ❄️ Snowflake → Firebase Migration
+![](https://img.shields.io/badge/Data_Migration-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### ❄️ Snowflake → Firebase
 Redesigned relational schemas and migrated to document-based architecture.
 
-**Flow:** `Snowflake` → `Python ETL` → `Firebase Firestore`
+`Snowflake` → `Python ETL` → `Firebase Firestore`
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -204,12 +231,14 @@ Redesigned relational schemas and migrated to document-based architecture.
 ![JSON](https://img.shields.io/badge/JSON-000?style=flat-square&logo=json&logoColor=white)
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🏛️ FEC Political Donation Pipeline
+![](https://img.shields.io/badge/ETL_Pipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🏛️ FEC Donation Pipeline
 Ingested FEC data via S3, transformed with PySpark, stored in Parquet at scale.
 
-**Flow:** `FEC API` → `S3` → `PySpark` → `Parquet` → `Redshift`
+`FEC API` → `S3` → `PySpark` → `Parquet` → `Redshift`
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -219,8 +248,6 @@ Ingested FEC data via S3, transformed with PySpark, stored in Parquet at scale.
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 [![View All Repos](https://img.shields.io/badge/🔗_View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisrinivas194?tab=repositories)
 
@@ -249,35 +276,38 @@ Ingested FEC data via S3, transformed with PySpark, stored in Parquet at scale.
 
 ## 🎓 Education
 
+<div align="center">
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**🎓 M.S. Data Science**
-New Jersey Institute of Technology, Newark
-`2025` &nbsp; ![NJIT](https://img.shields.io/badge/NJIT-003087?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/M.S._Data_Science-003087?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+### 🎓 New Jersey Institute of Technology
+📍 Newark, New Jersey
+🗓️ `2023 – 2025`
+
+![Data Science](https://img.shields.io/badge/Data_Science-0052CC?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-412991?style=flat-square&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-E25A1C?style=flat-square&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**🎓 B.Tech Computer Science & Engineering**
-SCSVMV University, Chennai
-`2022` &nbsp; ![SCSVMV](https://img.shields.io/badge/SCSVMV-8B0000?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/B.Tech_CS_%26_Engineering-8B0000?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+### 🎓 SCSVMV University
+📍 Chennai, India
+🗓️ `2018 – 2022`
+
+![Computer Science](https://img.shields.io/badge/Computer_Science-1a1b27?style=flat-square&color=38bdf8&logoColor=white)
+![Engineering](https://img.shields.io/badge/Engineering-217346?style=flat-square&logoColor=white)
+![Programming](https://img.shields.io/badge/Programming-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 </table>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-[![AWS](https://img.shields.io/badge/✅_AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![Databricks](https://img.shields.io/badge/✅_Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![Snowflake](https://img.shields.io/badge/✅_Snowflake-Hands--On_Training-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/✅_Python-Data_Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 </div>
 
@@ -285,36 +315,40 @@ SCSVMV University, Chennai
 
 ## 🌱 Currently Learning &nbsp;&nbsp;·&nbsp;&nbsp; 🎯 2025 Goals
 
+<div align="center">
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**📚 Currently Learning**
+![](https://img.shields.io/badge/Currently_Learning-1a1b27?style=for-the-badge&color=3fb950&labelColor=1a1b27)
 
 | Skill | Progress |
-|:---|:---|
-| Advanced Spark Performance Tuning | `▓▓▓▓░░░░░░` 40% |
-| Snowflake Optimization Techniques | `▓▓▓░░░░░░░` 30% |
-| Lakehouse Architecture | `▓▓░░░░░░░░` 20% |
-| Agentic AI & LLM Orchestration | `▓░░░░░░░░░` 15% |
-| Advanced Tableau & Looker | `▓▓░░░░░░░░` 20% |
+|:---|:---:|
+| Advanced Spark Performance Tuning | ![40%](https://img.shields.io/badge/40%25-3776AB?style=flat-square) |
+| Snowflake Optimization Techniques | ![30%](https://img.shields.io/badge/30%25-29B5E8?style=flat-square) |
+| Lakehouse Architecture | ![20%](https://img.shields.io/badge/20%25-8C4FFF?style=flat-square) |
+| Agentic AI & LLM Orchestration | ![15%](https://img.shields.io/badge/15%25-412991?style=flat-square) |
+| Advanced Tableau & Looker | ![20%](https://img.shields.io/badge/20%25-E97627?style=flat-square) |
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**🎯 2025 Goals**
+![](https://img.shields.io/badge/2025_Goals-1a1b27?style=for-the-badge&color=f78166&labelColor=1a1b27)
 
 | Status | Goal |
 |:---:|:---|
-| ✅ | Mastering Databricks & Spark |
-| ✅ | Production-Grade ETL Pipelines |
-| ✅ | Agentic AI for Data Engineering |
-| ✅ | Advanced BI & Dashboard Skills |
-| 🔄 | Land Mid-Level DE / DA Role |
+| ![done](https://img.shields.io/badge/✅_Done-3fb950?style=flat-square) | Mastering Databricks & Spark |
+| ![done](https://img.shields.io/badge/✅_Done-3fb950?style=flat-square) | Production-Grade ETL Pipelines |
+| ![done](https://img.shields.io/badge/✅_Done-3fb950?style=flat-square) | Agentic AI for Data Engineering |
+| ![done](https://img.shields.io/badge/✅_Done-3fb950?style=flat-square) | Advanced BI & Dashboard Skills |
+| ![wip](https://img.shields.io/badge/🔄_In_Progress-e3b341?style=flat-square) | Land Mid-Level DE / DA Role |
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -334,6 +368,6 @@ SCSVMV University, Chennai
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-⭐ *Data is the new oil, but insights are the engine.*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thanks for visiting! 😊**
+⭐ *Data is the new oil, but insights are the engine.* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Thanks for visiting! 😊**
 
 </div>
