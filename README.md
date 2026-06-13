@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Srinivas%20Pedhapolla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20AI-Enabled%20Pipelines%20%7C%20Cloud%20Architecture&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Srinivas%20Pedhapolla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI-Enabled%20Pipelines%20%7C%20Cloud%20Architecture&descAlignY=55&descSize=14" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+ETL+Pipelines+%F0%9F%9A%80;Designing+Cloud-Native+Data+Architectures+%E2%98%81%EF%B8%8F;Engineering+AI-Enabled+Data+Workflows+%F0%9F%A4%96;Transforming+Raw+Data+into+Business+Value+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+ETL+Pipelines+%F0%9F%9A%80;Designing+Cloud-Native+Data+Architectures+%E2%98%81%EF%B8%8F;Engineering+AI-Enabled+Data+Workflows+%F0%9F%A4%96;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A;Building+Dashboards+%26+Visual+Analytics+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-> *🚀 "Turning messy, multi-source data into reliable, analytics-ready pipelines — one transformation at a time."*
+> *🚀 "Turning messy, multi-source data into reliable pipelines and meaningful business insights — one transformation at a time."*
 
 </div>
 
@@ -23,47 +23,52 @@
 ## 👨‍💻 About Me
 
 ```python
-class DataEngineer:
+class DataEngineer_Analyst:
     name       = "Sai Srinivas Pedhapolla"
     location   = "Boston, MA, United States 🇺🇸"
     role       = "Data Engineering Intern @ Goods Unite Us"
     education  = "M.S. Data Science — NJIT"
     experience = "2+ years"
+    open_to    = "Data Engineer / Analytics Engineer / Data Analyst Roles"
+    work_auth  = "F-1 OPT — STEM Extension Eligible"
 
-    focus = [
+    engineering = [
         "Scalable ETL Pipelines",
         "Cloud-Native Architecture",
         "AI-Enabled Data Workflows",
     ]
 
-    stack = {
-        "languages" : ["Python", "SQL", "PySpark", "Spark SQL"],
-        "cloud"     : ["AWS S3", "Glue", "Lambda", "Redshift", "Databricks"],
-        "storage"   : ["Snowflake", "Firebase", "Parquet"],
-        "tools"     : ["Docker", "GitHub Actions", "Streamlit", "Power BI"],
-        "ai"        : ["LLM Workflows", "RAG Systems", "Agentic AI"],
-    }
+    analytics = [
+        "Business Intelligence & Dashboarding",
+        "Statistical Analysis & A/B Testing",
+        "Data Visualization (Power BI, Tableau, Looker)",
+        "KPI Tracking & Reporting",
+    ]
 
-    currently_learning = ["Lakehouse Architecture", "Spark Optimization", "LLM Orchestration"]
-    open_to            = "Full-time Data / Analytics Engineering Roles"
-    work_auth          = "F-1 OPT — STEM Extension Eligible"
+    currently_learning = [
+        "Lakehouse Architecture",
+        "Spark Optimization",
+        "LLM Orchestration",
+        "Advanced Tableau & Looker",
+    ]
 ```
 
 ---
 
-## 🏆 Achievements at a Glance
+## 🏆 At a Glance
 
 <div align="center">
 
-| 🏢 Companies | 🚀 Projects | ☁️ Cloud Services | ⚡ Experience | 💻 Tech Stack | 📚 Always |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **3+** | **5+** | **6+** | **2+ yrs** | **10+** | **Learning** |
+| 🏢 | 🚀 | ☁️ | ⚡ | 📊 | 💻 | 📚 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **3+** | **5+** | **6+** | **2+ yrs** | **10+** | **10+** | **∞** |
+| Companies | Projects | Cloud Services | Experience | Dashboards Built | Tech Stack | Always Learning |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Data Engineering Stack
 
 <div align="center">
 
@@ -86,17 +91,46 @@ class DataEngineer:
 ![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![Apache Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
 
-### 🧰 Libraries & Tools
+### 🧰 Tools & Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🤖 AI & Emerging
-![OpenAI](https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-00B4AB?style=for-the-badge&logo=semanticscholar&logoColor=white)
+![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-00B4AB?style=for-the-badge&logo=semanticscholar&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6366F1?style=for-the-badge&logo=probot&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Data Analytics Stack
+
+<div align="center">
+
+### 📈 Visualization & BI Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔢 Analysis & Statistics
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🎯 Analytics Skills
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-00897B?style=for-the-badge&logo=googleoptimize&logoColor=white)
+![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8E24AA?style=for-the-badge&logo=academia&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-E91E63?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
@@ -108,11 +142,11 @@ class DataEngineer:
 <summary><b>🟢 &nbsp;Software Intern – Data Engineering &nbsp;·&nbsp; Goods Unite Us &nbsp;·&nbsp; Sep 2025 – Present</b></summary>
 <br/>
 
-- Built scalable **Python, PySpark, SQL & Databricks** ETL workflows ingesting structured and semi-structured data
-- Designed reusable transformation logic and schema-aware data models including **Snowflake → Firebase** migration
+- Built scalable **Python, PySpark, SQL & Databricks** ETL workflows for structured and semi-structured data
+- Designed schema-aware data models including **Snowflake → Firebase** migration
 - Worked with REST APIs, JSON, and Parquet inputs using Pandas for reliable multi-source pipelines
 - Produced validation checks and pipeline health indicators improving production reliability
-- Contributed automation workflows reducing manual effort and improving processing consistency
+- Built analytics-ready datasets enabling downstream **BI and reporting workflows**
 
 </details>
 
@@ -120,10 +154,10 @@ class DataEngineer:
 <summary><b>🔵 &nbsp;Python Developer & R&D Data Specialist &nbsp;·&nbsp; Webdaddy &nbsp;·&nbsp; Aug 2024 – Feb 2025 &nbsp;·&nbsp; Singapore</b></summary>
 <br/>
 
-- Developed **Python, SQL, and Pandas**-based ETL workflows ingesting from REST APIs and multiple source systems
-- Integrated multi-format data (**XML, JSON, CSV**) with Python transformation logic for scalable pipelines
-- Performed root cause analysis improving execution stability and observability
-- Partnered with stakeholders in Agile environments to align solutions with evolving requirements
+- Developed **Python, SQL, and Pandas**-based ETL workflows from REST APIs and multiple source systems
+- Integrated multi-format data (**XML, JSON, CSV**) with Python transformation logic
+- Built reporting datasets and performed root cause analysis improving pipeline observability
+- Delivered business insights to stakeholders using structured reporting in Agile environments
 
 </details>
 
@@ -131,9 +165,10 @@ class DataEngineer:
 <summary><b>🟣 &nbsp;R&D Data Analyst &nbsp;·&nbsp; Findem, Inc. &nbsp;·&nbsp; May 2022 – Dec 2023 &nbsp;·&nbsp; California, USA</b></summary>
 <br/>
 
-- Performed business data analysis on large datasets using **SQL**, identifying trends for KPI tracking
-- Developed dashboard-ready datasets using **SQL, Excel, and Power BI**
-- Resolved data issues through validation checks and root cause analysis strengthening data quality
+- Performed business data analysis on large datasets using **SQL** for KPI tracking and decision-making
+- Built **Power BI** dashboards and reporting outputs used across teams
+- Conducted **statistical analysis** and trend identification to support product decisions
+- Resolved data quality issues through validation checks and root cause analysis
 
 </details>
 
@@ -146,7 +181,7 @@ class DataEngineer:
 <td width="33%" valign="top">
 
 ### 📊 GA4 Revenue Dashboard
-Built real-time dashboard reconciling revenue across purchases, renewals & refunds.
+Real-time analytics dashboard reconciling revenue across purchases, renewals & refunds.
 
 **Flow:** `GA4 API` → `Python` → `Streamlit` → `Dashboard`
 
@@ -214,10 +249,24 @@ Ingested FEC data via S3, transformed with PySpark, stored in Parquet at scale.
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|:---|:---|:---:|
-| **M.S. Data Science** | New Jersey Institute of Technology, Newark | 2025 |
-| **B.Tech Computer Science & Engineering** | SCSVMV University, Chennai | 2022 |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🎓 M.S. Data Science**
+New Jersey Institute of Technology, Newark
+`2025` &nbsp; ![NJIT](https://img.shields.io/badge/NJIT-003087?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 B.Tech Computer Science & Engineering**
+SCSVMV University, Chennai
+`2022` &nbsp; ![SCSVMV](https://img.shields.io/badge/SCSVMV-8B0000?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -225,35 +274,43 @@ Ingested FEC data via S3, transformed with PySpark, stored in Parquet at scale.
 
 <div align="center">
 
-[![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![Databricks](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![Snowflake](https://img.shields.io/badge/Snowflake-Hands--On_Training-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-Data_Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/✅_AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![Databricks](https://img.shields.io/badge/✅_Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#)
+[![Snowflake](https://img.shields.io/badge/✅_Snowflake-Hands--On_Training-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/✅_Python-Data_Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning &nbsp;·&nbsp; 🎯 Goals 2025
+## 🌱 Currently Learning &nbsp;&nbsp;·&nbsp;&nbsp; 🎯 2025 Goals
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **📚 Currently Learning**
-- ⬜ Advanced Spark Performance Tuning
-- ⬜ Snowflake Optimization Techniques
-- ⬜ Lakehouse Architecture
-- ⬜ Agentic AI & LLM Orchestration
+
+| Skill | Progress |
+|:---|:---|
+| Advanced Spark Performance Tuning | `▓▓▓▓░░░░░░` 40% |
+| Snowflake Optimization Techniques | `▓▓▓░░░░░░░` 30% |
+| Lakehouse Architecture | `▓▓░░░░░░░░` 20% |
+| Agentic AI & LLM Orchestration | `▓░░░░░░░░░` 15% |
+| Advanced Tableau & Looker | `▓▓░░░░░░░░` 20% |
 
 </td>
 <td width="50%" valign="top">
 
 **🎯 2025 Goals**
-- ✅ Mastering Databricks & Spark Optimization
-- ✅ Building Production-Grade ETL Pipelines
-- ✅ Exploring Agentic AI for Data Engineering
-- ✅ Land Mid-Level Data Engineering Role
+
+| Status | Goal |
+|:---:|:---|
+| ✅ | Mastering Databricks & Spark |
+| ✅ | Production-Grade ETL Pipelines |
+| ✅ | Agentic AI for Data Engineering |
+| ✅ | Advanced BI & Dashboard Skills |
+| 🔄 | Land Mid-Level DE / DA Role |
 
 </td>
 </tr>
@@ -277,6 +334,6 @@ Ingested FEC data via S3, transformed with PySpark, stored in Parquet at scale.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-⭐ *Data is the new oil, but insights are the engine.* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Thanks for visiting! 😊**
+⭐ *Data is the new oil, but insights are the engine.*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thanks for visiting! 😊**
 
 </div>
